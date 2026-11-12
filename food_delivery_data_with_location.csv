@@ -1,0 +1,802 @@
+Order_ID,Restaurant_Area,Customer_Area,Restaurant_Lat,Restaurant_Lon,Customer_Lat,Customer_Lon,Distance_km,Weather,Traffic_Level,Time_of_Day,Vehicle_Type,Preparation_Time_min,Courier_Experience_yrs,Delivery_Time_min
+5001,Indiranagar,Hebbal,12.9821,77.62589,13.02814,77.58818,8.5,Rainy,Low,Evening,Car,17,2,53
+5002,Indiranagar,Jayanagar,12.97043,77.64759,12.91963,77.59784,10.2,Rainy,Medium,Evening,Bike,14,5,63
+5003,Yelahanka,Koramangala,13.07684,77.58013,12.93477,77.61305,21.1,Clear,High,Morning,Scooter,14,9,89
+5004,HSR Layout,Hebbal,12.9414,77.65249,13.04279,77.59991,16.4,Stormy,High,Morning,Scooter,9,1,80
+5005,Malleshwaram,Indiranagar,12.99348,77.55064,12.96442,77.63875,13.1,Stormy,High,Evening,Bike,16,5,87
+5006,Malleshwaram,Electronic City,12.98843,77.58745,12.85588,77.6602,21.7,Rainy,Medium,Afternoon,Bike,10,3,89
+5007,Hebbal,Whitefield,13.05068,77.5761,12.96573,77.7553,28.1,Foggy,Medium,Night,Car,29,6,126
+5008,Koramangala,Electronic City,12.94919,77.63846,12.86819,77.66472,12.3,Clear,Low,Evening,Scooter,28,7,73
+5009,HSR Layout,Marathahalli,12.89778,77.65631,12.97677,77.69868,12.9,Clear,Low,Afternoon,Scooter,24,1,67
+5010,Indiranagar,Jayanagar,12.96071,77.61879,12.92005,77.59505,6.8,Clear,Medium,Afternoon,Bike,10,3,42
+5011,Electronic City,Electronic City,12.8332,77.6566,12.83756,77.64445,1.8,Cloudy,Low,Morning,Scooter,28,8,37
+5012,Marathahalli,HSR Layout,12.97265,77.71401,12.94137,77.64588,10.6,Foggy,Medium,Night,Bike,10,6,58
+5013,Jayanagar,Hebbal,12.92126,77.60671,13.0434,77.57036,18.4,Foggy,High,Night,Bike,15,7,88
+5014,Koramangala,Hebbal,12.9255,77.60387,13.04265,77.56976,17.6,Clear,Medium,Morning,Bike,14,1,81
+5015,Jayanagar,Yelahanka,12.92466,77.58683,13.09553,77.59191,24.7,Foggy,Medium,Evening,Bike,22,2,106
+5016,Indiranagar,Marathahalli,12.99285,77.62598,12.95749,77.69406,10.9,Foggy,Low,Morning,Scooter,7,7,51
+5017,Yelahanka,BTM Layout,13.08403,77.58327,12.92633,77.62711,23.6,Cloudy,Medium,Night,Scooter,19,9,91
+5018,Marathahalli,BTM Layout,12.95449,77.68895,12.92404,77.61729,11.0,Cloudy,Medium,Morning,Car,12,2,59
+5019,Marathahalli,Malleshwaram,12.9425,77.71875,12.99343,77.57714,21.3,Cloudy,High,Morning,Bike,18,0,97
+5020,Malleshwaram,Electronic City,13.02957,77.56555,12.86025,77.65587,27.6,Clear,Medium,Afternoon,Scooter,27,3,119
+5021,BTM Layout,Electronic City,12.93842,77.60663,12.84891,77.66479,15.3,Clear,Medium,Night,Scooter,26,2,78
+5022,Electronic City,Electronic City,12.85661,77.65543,12.83363,77.67335,4.2,Cloudy,Low,Night,Scooter,14,7,27
+5023,Indiranagar,HSR Layout,12.9768,77.64803,12.92364,77.65304,7.7,Cloudy,Low,Night,Scooter,24,3,61
+5024,Jayanagar,Marathahalli,12.93291,77.60133,12.95694,77.701,14.5,Cloudy,Medium,Night,Scooter,18,1,72
+5025,HSR Layout,Malleshwaram,12.88638,77.63561,13.01297,77.56536,20.8,Cloudy,Medium,Evening,Scooter,25,6,93
+5026,Malleshwaram,Electronic City,13.00682,77.58154,12.83846,77.64877,26.1,Foggy,Medium,Night,Scooter,17,4,106
+5027,Marathahalli,Yelahanka,12.94307,77.68364,13.10507,77.5852,27.2,Clear,High,Night,Scooter,22,1,115
+5028,Whitefield,Yelahanka,12.9539,77.7459,13.08099,77.57885,29.9,Clear,High,Morning,Scooter,25,8,122
+5029,BTM Layout,Indiranagar,12.90814,77.61473,12.9829,77.64516,11.6,Stormy,Medium,Night,Scooter,21,0,73
+5030,Indiranagar,Indiranagar,12.9742,77.66055,12.95995,77.63714,3.9,Cloudy,Medium,Morning,Scooter,22,6,48
+5031,Electronic City,HSR Layout,12.85209,77.65527,12.91356,77.63897,9.2,Rainy,Medium,Night,Bike,23,1,65
+5032,Yelahanka,HSR Layout,13.10911,77.59895,12.88084,77.6512,33.8,Cloudy,Medium,Afternoon,Scooter,22,0,130
+5033,MG Road,Koramangala,12.97875,77.62165,12.9344,77.61731,6.4,Cloudy,Medium,Night,Scooter,18,6,52
+5034,Hebbal,Jayanagar,13.02447,77.6037,12.93374,77.6058,13.1,Clear,Medium,Evening,Scooter,13,1,64
+5035,HSR Layout,Malleshwaram,12.91971,77.66015,13.00935,77.58695,16.6,Cloudy,Medium,Afternoon,Bike,29,1,90
+5036,Jayanagar,Yelahanka,12.92355,77.60548,13.11518,77.6013,27.7,Foggy,Low,Night,Scooter,17,7,102
+5037,Marathahalli,Malleshwaram,12.97326,77.69974,12.99047,77.55619,20.4,Clear,Low,Afternoon,Scooter,19,5,77
+5038,Yelahanka,BTM Layout,13.08969,77.60309,12.93558,77.59206,22.3,Stormy,Medium,Evening,Scooter,6,0,92
+5039,BTM Layout,HSR Layout,12.88344,77.62032,12.93103,77.67093,9.9,Clear,Low,Evening,Scooter,22,4,60
+5040,Jayanagar,Indiranagar,12.91928,77.59269,12.96383,77.64584,9.9,Cloudy,Low,Morning,Bike,8,1,50
+5041,Marathahalli,Hebbal,12.98492,77.7158,13.02614,77.58278,19.7,Foggy,Medium,Night,Scooter,29,4,96
+5042,Marathahalli,Malleshwaram,12.96473,77.67279,12.99655,77.57714,14.2,Clear,Medium,Evening,Scooter,18,0,75
+5043,Indiranagar,HSR Layout,12.97607,77.62897,12.91129,77.62736,9.4,Rainy,Medium,Afternoon,Scooter,18,9,53
+5044,MG Road,Malleshwaram,12.9862,77.62334,13.00572,77.5592,9.5,Rainy,Low,Evening,Scooter,25,1,64
+5045,Whitefield,MG Road,12.97584,77.75434,12.94567,77.60371,21.7,Cloudy,Medium,Afternoon,Bike,18,3,97
+5046,Jayanagar,Indiranagar,12.93054,77.58529,12.98556,77.63626,10.7,Foggy,High,Afternoon,Scooter,15,6,59
+5047,Yelahanka,Whitefield,13.09454,77.60006,12.96668,77.73622,26.6,Clear,Medium,Morning,Scooter,27,8,110
+5048,HSR Layout,BTM Layout,12.91251,77.65966,12.90423,77.63825,3.2,Clear,High,Evening,Bike,6,3,38
+5049,Marathahalli,Yelahanka,12.96151,77.68992,13.11217,77.59132,25.8,Foggy,Low,Afternoon,Scooter,27,5,103
+5050,Electronic City,Jayanagar,12.83749,77.66864,12.92078,77.5981,15.6,Stormy,Low,Morning,Scooter,23,0,82
+5051,Marathahalli,Whitefield,12.94568,77.69516,12.98352,77.75017,9.5,Clear,Low,Morning,Scooter,22,1,56
+5052,Malleshwaram,Marathahalli,13.00517,77.56257,12.96551,77.67817,17.3,Rainy,Medium,Afternoon,Car,13,6,78
+5053,Hebbal,Marathahalli,13.04742,77.5954,12.95518,77.69064,18.9,Clear,Medium,Afternoon,Scooter,5,5,70
+5054,MG Road,MG Road,12.98337,77.61937,12.98975,77.60905,1.7,Stormy,Medium,Evening,Scooter,13,5,40
+5055,Malleshwaram,Hebbal,13.00943,77.5505,13.04551,77.60783,9.6,Stormy,Low,Evening,Bike,6,4,51
+5056,Yelahanka,Jayanagar,13.10675,77.59112,12.91883,77.58947,27.2,Rainy,Low,Afternoon,Bike,27,5,111
+5057,BTM Layout,BTM Layout,12.94761,77.61728,12.89703,77.61424,7.3,Cloudy,High,Afternoon,Car,15,3,51
+5058,BTM Layout,Whitefield,12.91972,77.59471,12.96313,77.74576,22.2,Rainy,High,Afternoon,Scooter,18,6,99
+5059,Marathahalli,HSR Layout,12.9716,77.67767,12.91901,77.65418,8.3,Cloudy,Low,Night,Scooter,9,0,44
+5060,Indiranagar,Malleshwaram,13.00189,77.64686,13.00056,77.53509,15.7,Foggy,Medium,Morning,Car,28,6,86
+5061,Yelahanka,Malleshwaram,13.10134,77.59556,13.02479,77.57164,11.6,Foggy,Medium,Morning,Car,24,8,68
+5062,HSR Layout,Malleshwaram,12.91477,77.64487,13.0066,77.55711,18.1,Foggy,Medium,Night,Car,29,1,96
+5063,Hebbal,Whitefield,13.04833,77.59795,12.9721,77.74292,23.2,Foggy,Medium,Afternoon,Scooter,11,9,91
+5064,Whitefield,Jayanagar,12.99005,77.73757,12.92982,77.55979,26.5,Clear,High,Evening,Car,5,0,107
+5065,Koramangala,BTM Layout,12.93896,77.65869,12.90585,77.59727,9.9,Clear,High,Evening,Scooter,6,9,56
+5066,Koramangala,Whitefield,12.93956,77.61193,12.96826,77.75712,20.9,Rainy,Low,Night,Scooter,23,3,91
+5067,Marathahalli,MG Road,12.96019,77.69142,12.96754,77.63413,8.1,Cloudy,High,Morning,Bike,22,1,64
+5068,BTM Layout,Jayanagar,12.90213,77.59228,12.89652,77.58526,1.3,Stormy,Low,Evening,Bike,18,0,39
+5069,Whitefield,HSR Layout,12.98321,77.74425,12.89002,77.63938,20.0,Clear,High,Afternoon,Scooter,6,8,78
+5070,HSR Layout,Electronic City,12.90857,77.66495,12.85406,77.66589,7.9,Cloudy,Low,Morning,Scooter,6,4,35
+5071,MG Road,Marathahalli,12.95497,77.60627,12.95366,77.70067,13.3,Foggy,Low,Evening,Scooter,19,7,75
+5072,Indiranagar,BTM Layout,12.97667,77.64718,12.91506,77.60296,10.9,Cloudy,Medium,Morning,Scooter,21,8,63
+5073,BTM Layout,Indiranagar,12.89588,77.60354,12.96045,77.63866,10.6,Clear,Low,Evening,Bike,14,4,51
+5074,Hebbal,HSR Layout,13.02374,77.618,12.90441,77.64271,17.6,Clear,High,Morning,Scooter,15,1,83
+5075,Koramangala,Malleshwaram,12.93545,77.62571,13.01291,77.57195,13.5,Stormy,Low,Evening,Scooter,10,6,64
+5076,MG Road,HSR Layout,12.9646,77.59106,12.9127,77.65674,11.9,Rainy,Medium,Afternoon,Scooter,20,6,61
+5077,Jayanagar,Marathahalli,12.9379,77.60228,12.95276,77.71826,16.5,Foggy,Medium,Evening,Scooter,17,2,83
+5078,BTM Layout,Whitefield,12.89903,77.6049,12.98825,77.76084,25.5,Clear,High,Morning,Car,7,6,95
+5079,Marathahalli,Marathahalli,12.96233,77.70392,12.9583,77.70526,0.6,Foggy,High,Night,Car,13,7,39
+5080,MG Road,Whitefield,12.98237,77.60771,12.9655,77.75178,20.4,Clear,Medium,Afternoon,Scooter,8,8,79
+5081,Malleshwaram,BTM Layout,13.02111,77.5671,12.93038,77.62119,15.2,Clear,Low,Afternoon,Scooter,9,3,56
+5082,Koramangala,Marathahalli,12.94636,77.62538,12.93804,77.68559,8.6,Rainy,Low,Night,Scooter,22,5,60
+5083,MG Road,Whitefield,12.97849,77.59517,12.9764,77.77565,25.4,Rainy,Medium,Evening,Scooter,15,3,107
+5084,MG Road,Whitefield,12.97666,77.58801,12.95625,77.7533,23.5,Cloudy,Low,Morning,Scooter,18,6,87
+5085,HSR Layout,Indiranagar,12.911,77.65835,12.9688,77.65759,8.4,Stormy,High,Evening,Scooter,10,2,59
+5086,Electronic City,BTM Layout,12.85897,77.65781,12.90826,77.60056,10.8,Clear,High,Morning,Scooter,8,7,61
+5087,Hebbal,Indiranagar,13.02803,77.59966,12.97989,77.65306,10.2,Clear,Medium,Night,Scooter,11,1,51
+5088,HSR Layout,Malleshwaram,12.91796,77.64107,13.00473,77.56945,16.1,Clear,High,Evening,Scooter,20,6,82
+5089,Electronic City,Whitefield,12.84419,77.63516,12.9734,77.74775,24.5,Rainy,Medium,Afternoon,Bike,20,7,106
+5090,BTM Layout,Marathahalli,12.9196,77.59401,12.96155,77.6894,14.7,Foggy,High,Evening,Car,21,2,91
+5091,Malleshwaram,Malleshwaram,13.00047,77.58068,13.02039,77.55417,4.7,Foggy,Low,Afternoon,Car,5,5,25
+5092,Hebbal,Indiranagar,13.06154,77.58681,12.99878,77.66225,14.0,Rainy,Low,Afternoon,Scooter,18,9,57
+5093,Hebbal,Yelahanka,13.02804,77.59164,13.10921,77.61085,12.0,Clear,Medium,Afternoon,Car,25,9,66
+5094,Electronic City,Marathahalli,12.84837,77.64182,12.96819,77.69876,19.1,Cloudy,High,Morning,Bike,22,4,90
+5095,BTM Layout,Jayanagar,12.92004,77.60299,12.9204,77.59612,1.0,Clear,Low,Morning,Scooter,12,7,16
+5096,Koramangala,Yelahanka,12.94263,77.61925,13.08734,77.58761,21.4,Clear,High,Afternoon,Scooter,8,2,93
+5097,Whitefield,Hebbal,12.97534,77.74656,13.04289,77.57506,26.1,Clear,Medium,Afternoon,Car,28,9,107
+5098,Indiranagar,Jayanagar,12.98363,77.63913,12.92537,77.5724,12.6,Rainy,High,Evening,Scooter,28,8,83
+5099,Koramangala,Yelahanka,12.94712,77.61613,13.11101,77.58903,24.0,Clear,High,Afternoon,Scooter,8,2,91
+5100,Marathahalli,Hebbal,12.94118,77.68971,13.01367,77.59515,16.9,Cloudy,High,Afternoon,Scooter,8,6,83
+5101,Indiranagar,MG Road,12.97866,77.63984,13.00793,77.59279,7.9,Stormy,Medium,Afternoon,Scooter,23,2,64
+5102,HSR Layout,Hebbal,12.89694,77.65047,13.02037,77.60652,18.9,Clear,Low,Evening,Car,7,3,73
+5103,Yelahanka,Jayanagar,13.10364,77.59379,12.92537,77.59996,25.8,Clear,Medium,Morning,Car,19,1,101
+5104,Hebbal,HSR Layout,13.02175,77.61711,12.92354,77.64932,14.9,Clear,Medium,Afternoon,Scooter,19,7,67
+5105,BTM Layout,Malleshwaram,12.90523,77.61176,12.98672,77.54366,15.2,Clear,Medium,Morning,Car,13,3,69
+5106,Koramangala,Malleshwaram,12.93462,77.62562,12.99676,77.56212,12.7,Cloudy,Medium,Night,Car,25,4,71
+5107,HSR Layout,Indiranagar,12.92851,77.63871,12.95393,77.64043,3.7,Cloudy,Medium,Night,Scooter,18,8,35
+5108,Koramangala,MG Road,12.94228,77.63601,12.95826,77.5917,6.7,Cloudy,Medium,Evening,Scooter,26,6,55
+5109,MG Road,Yelahanka,12.97931,77.5937,13.07723,77.57014,14.5,Stormy,Medium,Morning,Car,15,8,72
+5110,BTM Layout,Koramangala,12.93359,77.58986,12.93642,77.64742,8.1,Cloudy,Low,Afternoon,Scooter,16,8,43
+5111,Koramangala,Indiranagar,12.92401,77.61197,12.98192,77.64822,9.8,Rainy,Medium,Morning,Scooter,27,3,67
+5112,Malleshwaram,Hebbal,12.97855,77.5713,13.03193,77.59239,8.3,Foggy,High,Afternoon,Car,14,0,59
+5113,Koramangala,MG Road,12.93027,77.60993,12.99084,77.62592,9.0,Foggy,Low,Evening,Scooter,21,8,56
+5114,Whitefield,HSR Layout,12.96662,77.76469,12.92836,77.6607,15.7,Cloudy,Medium,Morning,Scooter,22,7,80
+5115,Marathahalli,Yelahanka,12.97408,77.69629,13.10059,77.60166,22.6,Rainy,High,Night,Car,13,1,100
+5116,Whitefield,BTM Layout,12.99563,77.73096,12.9139,77.6128,20.4,Clear,Medium,Night,Scooter,7,9,79
+5117,Whitefield,Yelahanka,12.954,77.74641,13.09736,77.60563,28.7,Cloudy,Medium,Afternoon,Car,16,8,106
+5118,Indiranagar,Whitefield,13.00829,77.66135,12.9643,77.76752,16.3,Cloudy,Low,Morning,Bike,21,8,74
+5119,Yelahanka,Whitefield,13.11964,77.58513,12.98557,77.75083,30.3,Cloudy,High,Afternoon,Scooter,9,7,110
+5120,MG Road,Yelahanka,12.98583,77.59023,13.10356,77.59353,17.0,Clear,High,Morning,Scooter,5,9,62
+5121,HSR Layout,Yelahanka,12.91618,77.6527,13.09667,77.60327,27.0,Rainy,High,Night,Car,6,6,102
+5122,Koramangala,Marathahalli,12.96448,77.63932,12.95634,77.66362,3.6,Clear,High,Afternoon,Scooter,5,4,37
+5123,Koramangala,Hebbal,12.93633,77.63584,13.04239,77.59805,16.2,Clear,High,Night,Car,29,6,93
+5124,BTM Layout,BTM Layout,12.91108,77.6053,12.91177,77.60521,0.4,Clear,High,Evening,Scooter,19,2,42
+5125,Koramangala,Electronic City,12.93704,77.62589,12.84899,77.65998,13.6,Rainy,Medium,Evening,Car,6,3,64
+5126,HSR Layout,Marathahalli,12.89534,77.65044,12.95866,77.69518,11.1,Clear,Medium,Evening,Scooter,19,3,63
+5127,HSR Layout,Whitefield,12.91743,77.66063,12.98618,77.75404,16.5,Stormy,Medium,Evening,Scooter,8,6,75
+5128,Indiranagar,Indiranagar,12.97725,77.66573,12.99242,77.64205,4.0,Clear,Low,Morning,Scooter,14,0,33
+5129,Malleshwaram,Jayanagar,13.00764,77.56255,12.90788,77.5946,15.1,Rainy,Low,Morning,Car,15,1,69
+5130,Hebbal,Indiranagar,13.04029,77.61173,12.97647,77.6392,10.0,Clear,Medium,Evening,Car,11,6,54
+5131,Marathahalli,Koramangala,12.94656,77.69241,12.94381,77.62995,8.8,Rainy,Medium,Afternoon,Bike,15,6,54
+5132,MG Road,MG Road,12.99156,77.61301,12.97018,77.6007,3.5,Foggy,Medium,Evening,Car,25,1,56
+5133,Marathahalli,Electronic City,12.94709,77.68534,12.85501,77.67198,13.4,Cloudy,Medium,Morning,Scooter,6,1,59
+5134,Koramangala,Electronic City,12.94603,77.61447,12.84927,77.64,14.4,Cloudy,Low,Evening,Scooter,20,8,69
+5135,Indiranagar,Koramangala,12.95945,77.64492,12.94238,77.62694,3.5,Stormy,Medium,Afternoon,Bike,19,3,51
+5136,Malleshwaram,Indiranagar,13.00813,77.55308,12.97766,77.64622,13.8,Cloudy,High,Morning,Scooter,11,9,64
+5137,BTM Layout,Indiranagar,12.90693,77.61988,12.9821,77.62554,10.9,Clear,High,Morning,Car,12,4,57
+5138,BTM Layout,Indiranagar,12.91729,77.60263,12.98475,77.63563,10.8,Clear,Low,Morning,Scooter,8,4,41
+5139,Hebbal,Yelahanka,13.02816,77.59707,13.08295,77.61218,8.2,Foggy,Medium,Morning,Bike,26,7,55
+5140,Koramangala,Koramangala,12.90918,77.62264,12.92416,77.62292,2.2,Rainy,Low,Afternoon,Car,22,7,37
+5141,HSR Layout,Whitefield,12.8984,77.64254,12.95752,77.73941,16.1,Clear,Medium,Night,Scooter,13,2,72
+5142,Yelahanka,Marathahalli,13.1017,77.59701,12.97946,77.66163,19.9,Cloudy,Medium,Morning,Bike,28,2,93
+5143,Jayanagar,Electronic City,12.93267,77.60589,12.84889,77.66428,14.6,Clear,Low,Night,Scooter,6,8,58
+5144,MG Road,Electronic City,12.95815,77.6432,12.84973,77.66142,15.9,Rainy,High,Night,Bike,24,9,94
+5145,Hebbal,Hebbal,13.01048,77.5819,13.03793,77.60432,5.1,Foggy,Low,Evening,Scooter,14,8,45
+5146,Indiranagar,Malleshwaram,12.96812,77.64354,12.99727,77.58929,8.7,Rainy,Medium,Evening,Scooter,10,9,49
+5147,Hebbal,MG Road,13.03345,77.59403,12.96663,77.60675,9.8,Rainy,Low,Morning,Bike,25,8,60
+5148,Koramangala,HSR Layout,12.92779,77.61268,12.92189,77.649,5.2,Clear,Medium,Afternoon,Scooter,7,6,33
+5149,Electronic City,HSR Layout,12.83567,77.66278,12.90713,77.63916,10.9,Foggy,High,Afternoon,Scooter,6,3,63
+5150,Whitefield,Hebbal,12.98019,77.7386,13.05492,77.59626,22.8,Cloudy,Low,Night,Scooter,20,5,96
+5151,Marathahalli,Electronic City,12.97088,77.6956,12.84761,77.65985,18.5,Foggy,Medium,Night,Scooter,29,4,93
+5152,Hebbal,Yelahanka,13.04489,77.61102,13.10185,77.60536,8.3,Rainy,Medium,Evening,Scooter,7,0,51
+5153,Malleshwaram,HSR Layout,12.99243,77.53959,12.909,77.65405,20.1,Foggy,Medium,Night,Bike,6,1,78
+5154,HSR Layout,Electronic City,12.9127,77.64951,12.84436,77.65103,9.9,Foggy,Medium,Morning,Scooter,24,9,62
+5155,Whitefield,Whitefield,12.96766,77.7545,12.97027,77.74429,1.5,Rainy,Medium,Morning,Car,23,0,47
+5156,BTM Layout,Jayanagar,12.89966,77.59775,12.94343,77.61034,6.6,Cloudy,Low,Morning,Car,7,0,36
+5157,Marathahalli,HSR Layout,12.96987,77.70283,12.93985,77.63588,10.4,Clear,Low,Afternoon,Scooter,6,9,47
+5158,MG Road,Indiranagar,12.97684,77.61016,12.96454,77.64977,5.9,Clear,High,Afternoon,Scooter,12,9,46
+5159,MG Road,Electronic City,12.96997,77.60175,12.84835,77.67969,20.7,Foggy,Low,Morning,Bike,28,9,93
+5160,Whitefield,Whitefield,12.987,77.76369,12.97841,77.75784,1.5,Rainy,High,Night,Scooter,7,4,34
+5161,HSR Layout,HSR Layout,12.92095,77.63085,12.90078,77.65044,4.0,Clear,High,Night,Bike,29,2,59
+5162,Whitefield,MG Road,12.98026,77.75686,12.96804,77.62318,18.9,Clear,Medium,Evening,Bike,5,9,81
+5163,Electronic City,BTM Layout,12.85978,77.65654,12.91116,77.61434,9.5,Foggy,Low,Afternoon,Scooter,20,6,51
+5164,Marathahalli,Whitefield,12.9679,77.68386,12.94085,77.74989,10.1,Clear,Medium,Morning,Scooter,10,3,48
+5165,Electronic City,Jayanagar,12.8302,77.65721,12.93292,77.59136,17.5,Rainy,Medium,Night,Scooter,11,0,78
+5166,Marathahalli,Whitefield,12.95462,77.69235,12.96933,77.76378,10.3,Rainy,Medium,Night,Bike,11,3,61
+5167,Jayanagar,Jayanagar,12.93722,77.60277,12.92396,77.60214,1.9,Cloudy,High,Afternoon,Bike,15,7,40
+5168,Electronic City,Jayanagar,12.83615,77.6414,12.92608,77.61233,13.6,Foggy,Medium,Afternoon,Bike,22,6,74
+5169,Marathahalli,Electronic City,12.95972,77.6942,12.8483,77.65617,17.0,Rainy,Low,Morning,Car,20,4,78
+5170,HSR Layout,Whitefield,12.91655,77.64107,12.99779,77.74624,18.9,Stormy,Medium,Night,Bike,17,7,93
+5171,Yelahanka,Hebbal,13.11817,77.61431,13.03808,77.59177,12.0,Rainy,High,Afternoon,Car,27,0,82
+5172,Whitefield,Whitefield,12.98556,77.73572,12.97996,77.75336,2.6,Cloudy,Low,Evening,Bike,27,5,50
+5173,Marathahalli,HSR Layout,12.97005,77.70924,12.90544,77.63909,13.6,Clear,Low,Morning,Bike,19,2,61
+5174,Hebbal,Yelahanka,13.03373,77.57505,13.10506,77.60741,11.3,Foggy,Low,Morning,Scooter,14,0,52
+5175,BTM Layout,Koramangala,12.92775,77.61335,12.93152,77.62856,2.2,Clear,Medium,Night,Scooter,29,4,39
+5176,Koramangala,Koramangala,12.9417,77.62198,12.93352,77.61272,1.8,Clear,Medium,Afternoon,Bike,17,1,36
+5177,Indiranagar,HSR Layout,12.97662,77.64444,12.90084,77.61182,11.9,Rainy,High,Afternoon,Scooter,25,6,76
+5178,Koramangala,Koramangala,12.95166,77.61516,12.92549,77.60258,4.2,Rainy,Medium,Evening,Bike,21,4,54
+5179,Jayanagar,Jayanagar,12.9311,77.56948,12.93062,77.61105,5.9,Stormy,Medium,Afternoon,Scooter,18,7,51
+5180,Electronic City,Koramangala,12.83629,77.64073,12.94432,77.62376,15.8,Stormy,Medium,Afternoon,Scooter,17,3,82
+5181,Marathahalli,MG Road,12.97445,77.71221,12.98128,77.60856,14.6,Stormy,Medium,Morning,Scooter,15,0,72
+5182,MG Road,BTM Layout,12.97269,77.60841,12.90865,77.60499,9.3,Rainy,Low,Evening,Scooter,14,6,50
+5183,MG Road,Jayanagar,12.98288,77.59547,12.92895,77.59851,7.8,Clear,Low,Morning,Bike,12,8,41
+5184,BTM Layout,Malleshwaram,12.89846,77.61993,12.97311,77.54163,15.4,Rainy,Medium,Morning,Scooter,23,9,70
+5185,Whitefield,MG Road,12.96971,77.74008,12.98711,77.58277,22.3,Clear,Low,Evening,Car,29,7,97
+5186,Hebbal,Hebbal,13.02459,77.58714,13.0355,77.57734,2.1,Clear,Low,Morning,Scooter,25,6,31
+5187,Whitefield,Indiranagar,12.95827,77.73445,12.98183,77.64158,13.5,Stormy,Medium,Evening,Scooter,22,1,85
+5188,Jayanagar,Marathahalli,12.90221,77.60692,12.9733,77.70582,17.3,Rainy,Medium,Morning,Scooter,26,5,83
+5189,Koramangala,Koramangala,12.96105,77.64704,12.9303,77.63017,5.0,Stormy,Medium,Morning,Scooter,29,2,55
+5190,Malleshwaram,MG Road,13.00183,77.55211,12.98733,77.60525,7.8,Clear,Low,Evening,Scooter,10,0,42
+5191,BTM Layout,BTM Layout,12.91959,77.61254,12.9115,77.59469,2.8,Cloudy,High,Afternoon,Bike,9,0,39
+5192,Hebbal,Marathahalli,13.04922,77.60769,12.96586,77.70692,18.5,Clear,Medium,Morning,Scooter,16,2,82
+5193,BTM Layout,MG Road,12.91526,77.63443,12.97091,77.60338,9.2,Rainy,Medium,Night,Scooter,28,5,65
+5194,Yelahanka,MG Road,13.10698,77.56646,12.97948,77.60652,19.3,Stormy,Low,Night,Scooter,16,8,83
+5195,Jayanagar,Marathahalli,12.90881,77.59442,12.9768,77.69647,17.4,Cloudy,Low,Afternoon,Bike,19,6,74
+5196,Marathahalli,Jayanagar,12.96157,77.70407,12.9174,77.58813,17.5,Clear,High,Night,Car,25,8,87
+5197,HSR Layout,Hebbal,12.90675,77.62856,13.02869,77.58827,18.5,Clear,Medium,Night,Scooter,9,1,81
+5198,Indiranagar,Hebbal,12.98452,77.6446,13.03212,77.58986,10.3,Clear,Medium,Morning,Bike,10,1,46
+5199,Jayanagar,Malleshwaram,12.92728,77.59507,13.00738,77.54915,13.3,Cloudy,High,Afternoon,Scooter,9,6,64
+5200,Malleshwaram,Yelahanka,12.98698,77.57227,13.13407,77.59923,21.6,Foggy,High,Morning,Bike,11,6,91
+5201,MG Road,Indiranagar,12.95349,77.59869,12.97172,77.63867,6.2,Stormy,Medium,Morning,Scooter,27,8,59
+5202,Indiranagar,MG Road,12.96633,77.64469,12.95132,77.61896,4.2,Clear,High,Evening,Bike,22,8,49
+5203,Malleshwaram,Indiranagar,13.01245,77.55631,12.97083,77.61901,10.7,Clear,Medium,Evening,Car,23,0,68
+5204,HSR Layout,HSR Layout,12.9168,77.65354,12.89285,77.66141,3.6,Clear,High,Evening,Scooter,26,9,48
+5205,HSR Layout,Koramangala,12.91654,77.64817,12.92878,77.62359,3.9,Clear,Medium,Morning,Scooter,18,9,37
+5206,Yelahanka,Koramangala,13.07657,77.59064,12.93573,77.6225,20.8,Clear,Low,Night,Scooter,25,4,92
+5207,Hebbal,Whitefield,13.00362,77.57888,12.95859,77.74028,23.6,Clear,Medium,Evening,Scooter,19,5,95
+5208,BTM Layout,Whitefield,12.9092,77.62874,12.96193,77.74014,17.4,Foggy,Low,Afternoon,Bike,6,3,67
+5209,MG Road,Yelahanka,12.97169,77.61897,13.07855,77.57832,16.5,Clear,Medium,Night,Car,13,0,78
+5210,Yelahanka,Marathahalli,13.09354,77.60572,12.96162,77.70813,23.9,Clear,Low,Morning,Bike,16,0,99
+5211,Jayanagar,Whitefield,12.92933,77.58468,12.96114,77.74738,23.4,Clear,Medium,Morning,Scooter,8,1,87
+5212,Koramangala,BTM Layout,12.93322,77.61915,12.93002,77.61866,0.5,Rainy,Low,Night,Bike,14,2,23
+5213,Koramangala,BTM Layout,12.92104,77.6434,12.92961,77.61998,3.5,Cloudy,Medium,Night,Bike,24,4,42
+5214,Electronic City,Jayanagar,12.83471,77.66799,12.91491,77.58775,16.2,Clear,Medium,Evening,Bike,24,0,88
+5215,Malleshwaram,Jayanagar,13.00528,77.55334,12.92092,77.59089,13.3,Rainy,High,Evening,Scooter,9,3,75
+5216,Indiranagar,Yelahanka,12.97933,77.64022,13.10173,77.59211,18.9,Rainy,High,Night,Bike,15,5,91
+5217,Jayanagar,Indiranagar,12.92416,77.59436,12.98791,77.65308,12.4,Cloudy,Medium,Afternoon,Car,18,1,62
+5218,Marathahalli,BTM Layout,12.98636,77.69388,12.89687,77.61163,17.4,Rainy,Medium,Afternoon,Scooter,10,2,79
+5219,Indiranagar,MG Road,12.97529,77.62835,12.97514,77.60878,2.8,Clear,Medium,Afternoon,Bike,16,8,32
+5220,Indiranagar,Whitefield,12.97989,77.65474,12.99263,77.75861,14.7,Cloudy,High,Morning,Bike,5,8,65
+5221,Marathahalli,BTM Layout,12.94719,77.70336,12.91595,77.60915,14.0,Rainy,Medium,Morning,Scooter,17,9,65
+5222,MG Road,Marathahalli,12.97133,77.60333,12.96219,77.72189,16.8,Clear,Low,Morning,Car,28,1,79
+5223,BTM Layout,Indiranagar,12.92292,77.59013,12.97885,77.62963,9.8,Cloudy,Medium,Morning,Bike,22,0,65
+5224,Electronic City,HSR Layout,12.85203,77.65211,12.8977,77.66242,6.8,Clear,Medium,Night,Scooter,26,0,53
+5225,Yelahanka,BTM Layout,13.09884,77.59517,12.92849,77.62693,25.0,Clear,High,Afternoon,Bike,10,7,99
+5226,Koramangala,Indiranagar,12.93996,77.63385,12.98209,77.62707,6.2,Cloudy,Medium,Afternoon,Car,18,9,48
+5227,Malleshwaram,HSR Layout,13.00418,77.55921,12.91403,77.65773,19.0,Rainy,High,Afternoon,Bike,13,3,93
+5228,BTM Layout,Jayanagar,12.89404,77.62236,12.93422,77.59715,6.8,Rainy,Low,Morning,Bike,21,6,52
+5229,Electronic City,Koramangala,12.80591,77.66085,12.94515,77.63494,20.5,Rainy,Medium,Afternoon,Scooter,10,1,84
+5230,Malleshwaram,Malleshwaram,13.03123,77.55475,12.98119,77.55027,7.3,Rainy,Low,Morning,Scooter,18,6,38
+5231,MG Road,HSR Layout,12.98557,77.57228,12.9179,77.65032,14.7,Clear,Medium,Evening,Car,12,6,68
+5232,Indiranagar,Hebbal,12.97772,77.62571,13.02929,77.58523,9.4,Clear,High,Evening,Scooter,13,6,59
+5233,Koramangala,BTM Layout,12.91434,77.60562,12.91903,77.60612,0.7,Rainy,High,Morning,Scooter,21,1,43
+5234,HSR Layout,Hebbal,12.89629,77.6446,13.02773,77.61404,19.5,Clear,Low,Afternoon,Car,12,0,74
+5235,Jayanagar,Marathahalli,12.94127,77.59682,12.94921,77.69578,14.0,Cloudy,High,Evening,Scooter,6,2,70
+5236,Koramangala,Koramangala,12.90174,77.64022,12.94719,77.59747,8.9,Clear,Low,Evening,Bike,17,0,52
+5237,MG Road,BTM Layout,12.97171,77.6057,12.91705,77.59331,8.1,Foggy,Medium,Night,Scooter,10,9,50
+5238,Malleshwaram,Malleshwaram,13.01392,77.54986,13.00066,77.55102,1.9,Clear,Low,Evening,Scooter,12,3,31
+5239,Electronic City,Marathahalli,12.84692,77.6875,12.9562,77.70959,16.1,Cloudy,High,Night,Bike,26,7,91
+5240,MG Road,Marathahalli,12.98466,77.60961,12.96065,77.68903,11.7,Clear,Low,Morning,Scooter,18,4,56
+5241,Koramangala,Malleshwaram,12.93363,77.62042,13.0039,77.54601,14.6,Clear,High,Evening,Bike,21,4,84
+5242,Koramangala,Hebbal,12.96392,77.62044,13.00794,77.6104,6.5,Cloudy,Medium,Evening,Bike,16,5,53
+5243,Malleshwaram,Jayanagar,12.99116,77.54757,12.91513,77.59681,13.0,Cloudy,Medium,Morning,Scooter,20,2,67
+5244,Indiranagar,Marathahalli,12.96205,77.64754,12.95689,77.70151,7.6,Foggy,Low,Afternoon,Bike,16,7,51
+5245,BTM Layout,MG Road,12.91989,77.6137,12.98522,77.59721,9.7,Clear,Medium,Morning,Car,28,2,64
+5246,Jayanagar,Jayanagar,12.94215,77.61199,12.94205,77.61093,0.4,Foggy,Medium,Evening,Bike,6,5,33
+5247,Whitefield,BTM Layout,12.96913,77.76236,12.90605,77.60863,23.5,Clear,Low,Afternoon,Bike,12,1,85
+5248,Malleshwaram,Yelahanka,13.01609,77.57427,13.1247,77.57261,15.7,Clear,Medium,Morning,Scooter,24,4,78
+5249,Indiranagar,Electronic City,12.97203,77.65506,12.84707,77.64654,18.1,Stormy,Low,Morning,Car,11,7,74
+5250,Whitefield,Indiranagar,12.95558,77.74575,12.98504,77.63069,16.8,Cloudy,Low,Afternoon,Scooter,23,7,76
+5251,HSR Layout,Whitefield,12.9284,77.64125,12.96415,77.74807,15.9,Clear,Medium,Evening,Car,5,1,66
+5252,Malleshwaram,BTM Layout,13.02232,77.56329,12.91012,77.61927,18.0,Cloudy,Low,Morning,Scooter,25,5,73
+5253,Indiranagar,Whitefield,12.9968,77.62504,12.98789,77.74128,16.4,Foggy,High,Night,Bike,6,1,79
+5254,Electronic City,HSR Layout,12.83994,77.65769,12.90981,77.64019,10.4,Foggy,Medium,Morning,Bike,9,0,56
+5255,Indiranagar,MG Road,12.96454,77.63607,12.97522,77.63325,1.6,Clear,High,Evening,Car,8,9,37
+5256,Indiranagar,BTM Layout,12.96437,77.64806,12.9314,77.61109,7.1,Cloudy,High,Afternoon,Scooter,16,5,51
+5257,MG Road,HSR Layout,12.9729,77.60587,12.93321,77.64105,7.6,Clear,Medium,Night,Car,5,4,39
+5258,Whitefield,Whitefield,12.97679,77.72636,12.95268,77.7504,4.9,Clear,High,Evening,Car,20,3,53
+5259,BTM Layout,Indiranagar,12.92271,77.60973,12.97706,77.62577,8.2,Cloudy,Low,Evening,Scooter,8,4,42
+5260,Electronic City,Malleshwaram,12.82799,77.67647,13.00431,77.57112,29.5,Clear,Medium,Evening,Scooter,22,3,117
+5261,Indiranagar,HSR Layout,12.98074,77.61806,12.93437,77.65902,8.8,Rainy,Low,Evening,Bike,18,9,56
+5262,BTM Layout,BTM Layout,12.91681,77.60029,12.94723,77.60311,4.4,Clear,Medium,Morning,Car,16,2,37
+5263,Jayanagar,Marathahalli,12.92608,77.59331,12.95949,77.70942,17.1,Cloudy,High,Night,Car,10,9,72
+5264,Indiranagar,Hebbal,12.97812,77.6242,13.0413,77.59351,10.1,Clear,High,Afternoon,Scooter,16,7,59
+5265,Koramangala,Indiranagar,12.93278,77.61724,12.98984,77.64426,9.1,Cloudy,Medium,Evening,Scooter,17,9,57
+5266,Indiranagar,Malleshwaram,12.98552,77.64081,13.0184,77.5558,12.9,Cloudy,High,Afternoon,Scooter,29,2,82
+5267,BTM Layout,BTM Layout,12.91812,77.59362,12.91383,77.60049,1.1,Stormy,Medium,Morning,Scooter,28,9,41
+5268,Jayanagar,Marathahalli,12.9277,77.59669,12.9705,77.67941,13.2,Rainy,Medium,Morning,Bike,15,1,69
+5269,Hebbal,Whitefield,13.02751,77.60128,12.9625,77.75264,23.3,Clear,Medium,Evening,Car,13,9,93
+5270,Marathahalli,Indiranagar,12.96385,77.68156,12.94735,77.63739,6.7,Clear,High,Evening,Scooter,29,6,62
+5271,Electronic City,MG Road,12.84375,77.65992,12.96014,77.60376,18.6,Cloudy,Low,Night,Bike,19,9,75
+5272,BTM Layout,Indiranagar,12.89122,77.62246,12.98214,77.62725,13.2,Stormy,Medium,Afternoon,Scooter,16,8,71
+5273,Electronic City,Malleshwaram,12.851,77.65751,13.01409,77.55068,28.0,Cloudy,Medium,Afternoon,Bike,14,5,105
+5274,Hebbal,Jayanagar,13.03263,77.60165,12.89902,77.58621,19.4,Stormy,Low,Morning,Car,11,9,78
+5275,Yelahanka,HSR Layout,13.11182,77.60346,12.89109,77.65303,32.7,Clear,Low,Morning,Car,23,1,122
+5276,Koramangala,Marathahalli,12.93325,77.62113,12.95996,77.70101,11.9,Cloudy,High,Evening,Scooter,14,2,68
+5277,Hebbal,MG Road,13.03465,77.60825,12.93622,77.59861,14.3,Rainy,High,Evening,Bike,27,0,91
+5278,Yelahanka,Hebbal,13.10324,77.60039,13.0438,77.60052,8.6,Foggy,Medium,Morning,Car,23,0,61
+5279,Marathahalli,Marathahalli,12.95896,77.68499,12.97284,77.71849,5.1,Clear,Low,Night,Bike,29,9,51
+5280,Hebbal,Whitefield,13.03044,77.60276,12.93527,77.75127,25.0,Cloudy,High,Afternoon,Scooter,17,5,105
+5281,HSR Layout,Jayanagar,12.89008,77.65728,12.93559,77.61806,8.6,Foggy,Medium,Night,Bike,6,6,51
+5282,Indiranagar,Indiranagar,13.00051,77.64998,12.97747,77.646,3.4,Rainy,Low,Night,Scooter,24,9,39
+5283,Yelahanka,Electronic City,13.08175,77.5881,12.86366,77.67617,33.9,Clear,High,Morning,Scooter,19,7,130
+5284,HSR Layout,HSR Layout,12.9075,77.65246,12.91642,77.64105,2.1,Cloudy,Medium,Morning,Scooter,23,2,37
+5285,Yelahanka,Hebbal,13.10854,77.61233,13.03438,77.61108,10.7,Cloudy,Medium,Evening,Bike,29,5,71
+5286,Koramangala,HSR Layout,12.93976,77.62684,12.91452,77.63318,3.8,Clear,Medium,Evening,Car,18,3,43
+5287,Electronic City,Yelahanka,12.85201,77.674,13.1135,77.59922,39.2,Cloudy,Low,Afternoon,Car,28,6,141
+5288,Yelahanka,HSR Layout,13.10993,77.6115,12.91541,77.64338,28.5,Cloudy,Low,Evening,Bike,23,8,110
+5289,Malleshwaram,MG Road,13.01866,77.56387,12.97763,77.58284,6.5,Stormy,Medium,Evening,Car,23,2,64
+5290,Hebbal,Malleshwaram,13.03937,77.60455,12.9877,77.54832,10.9,Cloudy,Medium,Afternoon,Scooter,11,6,55
+5291,Malleshwaram,Indiranagar,13.03838,77.56085,12.98579,77.65438,15.2,Cloudy,Medium,Night,Scooter,27,3,78
+5292,Yelahanka,Whitefield,13.08854,77.60876,12.97177,77.75588,26.7,Clear,High,Morning,Scooter,10,6,96
+5293,Yelahanka,BTM Layout,13.10343,77.59486,12.94034,77.62563,24.0,Clear,High,Afternoon,Bike,27,6,111
+5294,Yelahanka,BTM Layout,13.09637,77.58936,12.91807,77.61244,26.0,Cloudy,Low,Afternoon,Scooter,24,7,105
+5295,Malleshwaram,Yelahanka,12.99696,77.56406,13.1013,77.56145,15.1,Rainy,Medium,Morning,Scooter,9,8,66
+5296,Whitefield,Whitefield,12.97325,77.74881,12.96392,77.75299,1.5,Clear,Low,Morning,Scooter,6,1,17
+5297,Koramangala,Hebbal,12.9527,77.62877,13.04617,77.59015,14.6,Cloudy,Low,Evening,Bike,17,2,73
+5298,Yelahanka,Indiranagar,13.09218,77.60158,12.97762,77.63473,17.2,Clear,Low,Afternoon,Scooter,6,4,65
+5299,Electronic City,Yelahanka,12.83667,77.64592,13.09391,77.59088,38.0,Clear,Medium,Night,Scooter,17,9,135
+5300,MG Road,Electronic City,12.98429,77.59869,12.86618,77.65098,18.6,Cloudy,Low,Morning,Bike,7,2,77
+5301,Koramangala,MG Road,12.94173,77.62853,12.99874,77.59525,9.5,Clear,Low,Night,Car,23,8,57
+5302,Indiranagar,Marathahalli,13.00189,77.6463,12.95536,77.71227,11.5,Cloudy,High,Afternoon,Scooter,14,6,55
+5303,Koramangala,HSR Layout,12.94753,77.62526,12.901,77.65272,7.8,Rainy,Low,Morning,Bike,7,7,42
+5304,Electronic City,Indiranagar,12.84796,77.69155,12.99371,77.63292,22.6,Clear,Medium,Night,Scooter,7,6,81
+5305,Whitefield,Hebbal,12.96585,77.76319,13.02749,77.59189,25.7,Rainy,Medium,Evening,Scooter,28,9,111
+5306,HSR Layout,Whitefield,12.91418,77.64627,13.00554,77.76164,20.9,Stormy,Low,Morning,Scooter,9,5,78
+5307,Jayanagar,Hebbal,12.9229,77.60234,13.03592,77.60152,16.3,Foggy,Low,Evening,Scooter,21,2,76
+5308,Whitefield,Marathahalli,12.95342,77.76587,12.97246,77.69969,9.7,Clear,Medium,Evening,Scooter,22,7,60
+5309,Jayanagar,Electronic City,12.9251,77.59802,12.83135,77.64543,15.1,Rainy,Medium,Evening,Scooter,9,8,71
+5310,Malleshwaram,Electronic City,13.0014,77.5436,12.84656,77.65493,27.3,Clear,Medium,Afternoon,Bike,8,1,104
+5311,Hebbal,MG Road,13.03301,77.59804,12.99055,77.59311,6.2,Rainy,High,Night,Bike,29,6,70
+5312,Malleshwaram,BTM Layout,12.99835,77.5652,12.92369,77.58703,11.2,Rainy,Low,Night,Car,16,4,61
+5313,Koramangala,Electronic City,12.95548,77.65,12.84053,77.67086,16.9,Clear,Medium,Morning,Scooter,14,5,70
+5314,MG Road,Koramangala,12.98396,77.58467,12.96656,77.62049,5.6,Clear,Low,Night,Scooter,19,0,41
+5315,Yelahanka,HSR Layout,13.11194,77.61479,12.92231,77.64237,27.7,Rainy,Medium,Night,Bike,20,7,119
+5316,Malleshwaram,BTM Layout,12.99621,77.56278,12.91566,77.59849,12.7,Rainy,Medium,Afternoon,Scooter,28,2,77
+5317,Whitefield,Indiranagar,12.95753,77.76115,12.97294,77.6498,15.8,Rainy,High,Afternoon,Scooter,16,3,81
+5318,Electronic City,MG Road,12.84181,77.65668,12.97417,77.63182,19.5,Rainy,Medium,Afternoon,Bike,13,0,91
+5319,Marathahalli,Marathahalli,12.96203,77.69951,12.97721,77.70433,2.3,Foggy,Medium,Morning,Bike,25,4,46
+5320,Hebbal,MG Road,13.03166,77.6106,12.96813,77.61786,9.2,Cloudy,Medium,Night,Bike,7,2,57
+5321,Electronic City,Indiranagar,12.84294,77.66124,12.98063,77.62576,20.5,Clear,Low,Evening,Scooter,10,3,74
+5322,Whitefield,Hebbal,12.98134,77.76269,13.02775,77.59902,24.0,Foggy,Low,Night,Scooter,25,9,99
+5323,Indiranagar,Koramangala,12.98199,77.63989,12.95216,77.62703,4.7,Clear,Medium,Evening,Scooter,15,0,43
+5324,Yelahanka,Marathahalli,13.08889,77.59145,12.95898,77.71518,25.6,Cloudy,High,Night,Scooter,9,9,98
+5325,Malleshwaram,BTM Layout,12.99836,77.56215,12.92884,77.61012,12.1,Rainy,Low,Afternoon,Scooter,13,4,52
+5326,Electronic City,Marathahalli,12.83731,77.65425,12.96778,77.68598,19.4,Foggy,Medium,Morning,Car,24,2,97
+5327,Hebbal,Hebbal,13.03797,77.59565,13.03065,77.5961,1.1,Cloudy,Medium,Afternoon,Scooter,27,7,40
+5328,Jayanagar,Yelahanka,12.91099,77.61025,13.11099,77.59098,29.0,Rainy,Medium,Afternoon,Car,8,5,105
+5329,Jayanagar,Indiranagar,12.92286,77.57987,12.99158,77.65805,14.8,Stormy,Medium,Morning,Scooter,28,1,88
+5330,Hebbal,BTM Layout,13.04411,77.5772,12.90462,77.61797,21.0,Rainy,Low,Afternoon,Car,5,2,76
+5331,Yelahanka,Marathahalli,13.10104,77.59621,12.96944,77.70139,24.1,Clear,Low,Afternoon,Car,28,3,103
+5332,Jayanagar,Marathahalli,12.91403,77.61416,13.00388,77.69944,17.7,Stormy,Medium,Afternoon,Scooter,26,2,92
+5333,Electronic City,Malleshwaram,12.8378,77.67291,13.00178,77.57471,27.4,Rainy,Medium,Evening,Car,27,7,115
+5334,Whitefield,Jayanagar,12.97129,77.76604,12.93457,77.58779,25.7,Clear,Low,Morning,Bike,21,4,99
+5335,Whitefield,MG Road,12.9756,77.76518,12.96136,77.59566,24.0,Clear,Low,Afternoon,Car,8,0,86
+5336,Marathahalli,Indiranagar,12.96914,77.68883,12.98582,77.6181,10.3,Cloudy,High,Afternoon,Bike,7,9,57
+5337,MG Road,Malleshwaram,12.97386,77.60842,12.99826,77.57881,5.5,Cloudy,Medium,Evening,Scooter,21,0,53
+5338,Indiranagar,BTM Layout,12.96259,77.60908,12.92773,77.61604,5.1,Foggy,High,Morning,Bike,11,9,52
+5339,Malleshwaram,Hebbal,13.0206,77.5576,13.03705,77.60457,7.0,Cloudy,High,Morning,Scooter,26,7,54
+5340,Whitefield,Electronic City,12.97337,77.75751,12.83285,77.66057,24.5,Rainy,Low,Night,Scooter,24,8,96
+5341,Indiranagar,Malleshwaram,12.98327,77.62235,13.01866,77.5845,7.4,Clear,Medium,Night,Scooter,23,6,53
+5342,Jayanagar,Whitefield,12.92867,77.56931,12.96906,77.73807,24.5,Cloudy,High,Night,Scooter,7,9,98
+5343,Hebbal,Koramangala,13.02335,77.58166,12.9248,77.63879,16.4,Clear,Low,Morning,Scooter,9,9,62
+5344,Koramangala,Jayanagar,12.93137,77.62739,12.92767,77.58351,6.2,Clear,High,Evening,Scooter,27,8,58
+5345,HSR Layout,Marathahalli,12.91469,77.6617,12.94929,77.69181,6.6,Rainy,High,Evening,Scooter,21,2,63
+5346,Indiranagar,Koramangala,12.99079,77.67215,12.94185,77.60972,11.3,Clear,High,Evening,Car,7,1,62
+5347,Jayanagar,Whitefield,12.92572,77.6113,12.9709,77.7509,20.7,Cloudy,Medium,Morning,Scooter,16,2,92
+5348,Yelahanka,Koramangala,13.06326,77.57846,12.93259,77.62083,19.8,Rainy,Medium,Night,Car,18,0,91
+5349,Yelahanka,Electronic City,13.0978,77.56882,12.85513,77.66518,37.6,Clear,Low,Night,Scooter,25,2,137
+5350,Yelahanka,Whitefield,13.10493,77.59849,12.95622,77.74277,29.6,Cloudy,Medium,Afternoon,Car,9,3,104
+5351,Whitefield,Indiranagar,12.98533,77.76312,12.99203,77.62387,19.6,Rainy,Low,Night,Scooter,21,3,90
+5352,Malleshwaram,Malleshwaram,13.01204,77.54572,12.98111,77.57129,5.7,Rainy,Medium,Night,Car,18,0,50
+5353,Malleshwaram,BTM Layout,13.03338,77.55889,12.93792,77.62532,16.7,Foggy,Medium,Morning,Scooter,12,8,70
+5354,BTM Layout,Hebbal,12.93369,77.60518,13.03987,77.6056,15.3,Clear,Low,Morning,Scooter,9,2,58
+5355,Hebbal,BTM Layout,13.05197,77.59792,12.91528,77.60921,19.8,Rainy,High,Afternoon,Car,11,1,90
+5356,Yelahanka,Marathahalli,13.11201,77.59468,12.95206,77.70201,27.6,Clear,Low,Afternoon,Scooter,7,1,102
+5357,Indiranagar,Yelahanka,12.96181,77.64756,13.1092,77.57567,23.6,Clear,Low,Night,Car,11,5,87
+5358,Whitefield,Yelahanka,12.97996,77.76328,13.10064,77.59203,29.8,Rainy,Medium,Morning,Scooter,14,5,113
+5359,Electronic City,Koramangala,12.85239,77.66168,12.93492,77.63817,12.4,Clear,Low,Evening,Scooter,29,3,69
+5360,Malleshwaram,Marathahalli,12.99719,77.57434,12.97348,77.70265,18.4,Rainy,Medium,Morning,Scooter,22,9,79
+5361,BTM Layout,Koramangala,12.92364,77.63468,12.93181,77.61398,3.1,Rainy,Medium,Evening,Scooter,29,4,46
+5362,Electronic City,Malleshwaram,12.85022,77.64862,13.00251,77.5747,24.4,Foggy,Medium,Night,Car,18,6,100
+5363,HSR Layout,Marathahalli,12.90602,77.63553,12.96618,77.69554,12.1,Clear,Medium,Morning,Scooter,13,0,60
+5364,Hebbal,Hebbal,13.03432,77.60383,13.05067,77.60549,2.4,Foggy,Medium,Evening,Scooter,18,6,43
+5365,MG Road,Hebbal,12.97244,77.62977,13.03586,77.57983,11.6,Clear,Medium,Morning,Car,20,9,56
+5366,Electronic City,Malleshwaram,12.84797,77.66297,13.00731,77.5581,27.4,Rainy,Medium,Afternoon,Scooter,17,4,110
+5367,MG Road,Whitefield,12.97051,77.6207,12.97223,77.75362,18.7,Clear,High,Morning,Scooter,19,4,87
+5368,Indiranagar,Koramangala,12.98494,77.63791,12.94608,77.62785,5.8,Rainy,High,Morning,Scooter,19,8,56
+5369,Hebbal,Malleshwaram,13.01279,77.60881,13.02345,77.57106,5.5,Clear,Medium,Morning,Scooter,28,1,50
+5370,BTM Layout,Koramangala,12.91322,77.60342,12.92575,77.62409,3.4,Rainy,High,Night,Bike,8,6,43
+5371,Indiranagar,Jayanagar,12.95818,77.64976,12.92526,77.59114,9.5,Rainy,Medium,Morning,Car,15,6,52
+5372,Hebbal,Yelahanka,13.03001,77.60263,13.102,77.60168,10.4,Clear,Medium,Afternoon,Bike,16,9,54
+5373,Hebbal,MG Road,13.042,77.60265,12.98463,77.61689,8.5,Cloudy,Medium,Night,Car,23,6,59
+5374,Hebbal,MG Road,13.03606,77.61446,12.99568,77.58835,6.9,Rainy,Medium,Night,Scooter,7,0,48
+5375,Hebbal,BTM Layout,13.03447,77.61078,12.91827,77.60597,16.8,Foggy,High,Afternoon,Scooter,18,1,90
+5376,Jayanagar,Yelahanka,12.92583,77.5876,13.10515,77.59358,25.9,Stormy,High,Evening,Scooter,7,3,107
+5377,Indiranagar,Hebbal,12.99723,77.65244,13.0514,77.59862,10.9,Clear,Low,Night,Scooter,15,4,49
+5378,Yelahanka,HSR Layout,13.08742,77.57695,12.89837,77.65926,29.7,Cloudy,Low,Evening,Car,10,6,105
+5379,MG Road,Marathahalli,12.98625,77.61974,12.95163,77.68121,10.0,Clear,Low,Afternoon,Scooter,27,0,66
+5380,HSR Layout,Koramangala,12.89345,77.6815,12.9316,77.63062,9.0,Rainy,Low,Evening,Car,5,3,45
+5381,Marathahalli,Whitefield,12.95349,77.7049,12.97157,77.72898,4.3,Clear,High,Afternoon,Scooter,29,2,57
+5382,Jayanagar,Jayanagar,12.92696,77.60106,12.92965,77.5845,2.4,Cloudy,Low,Night,Car,8,3,22
+5383,Whitefield,Koramangala,12.95958,77.75195,12.93076,77.61798,19.3,Clear,Low,Night,Bike,29,5,92
+5384,Koramangala,HSR Layout,12.93766,77.63571,12.93473,77.64389,1.2,Clear,Medium,Morning,Bike,15,3,34
+5385,Whitefield,Jayanagar,12.97854,77.74584,12.91827,77.5862,24.1,Rainy,High,Evening,Scooter,13,3,102
+5386,Jayanagar,Koramangala,12.91068,77.60314,12.93458,77.61808,4.0,Cloudy,High,Night,Car,5,8,37
+5387,BTM Layout,MG Road,12.91567,77.60816,12.99063,77.60245,10.9,Rainy,High,Night,Scooter,28,0,85
+5388,Yelahanka,Whitefield,13.09618,77.59256,12.98102,77.7465,27.3,Rainy,Low,Evening,Scooter,29,2,119
+5389,MG Road,Marathahalli,12.95232,77.60967,12.96076,77.67506,9.3,Foggy,Low,Evening,Scooter,17,6,54
+5390,Hebbal,Whitefield,13.03356,77.59768,12.97619,77.73297,20.8,Cloudy,Low,Evening,Bike,27,7,91
+5391,Malleshwaram,Malleshwaram,12.99393,77.5453,13.01526,77.5592,3.7,Clear,Medium,Afternoon,Scooter,6,6,26
+5392,Yelahanka,Electronic City,13.11677,77.62266,12.84686,77.66625,39.5,Stormy,Medium,Night,Bike,23,2,161
+5393,HSR Layout,Whitefield,12.90109,77.65054,12.97949,77.76174,19.3,Clear,Medium,Morning,Scooter,11,2,80
+5394,HSR Layout,Hebbal,12.93199,77.62852,13.02645,77.63086,13.7,Foggy,Low,Morning,Bike,11,6,66
+5395,HSR Layout,Yelahanka,12.9052,77.66181,13.10335,77.59733,30.0,Clear,Medium,Morning,Scooter,21,9,109
+5396,BTM Layout,MG Road,12.93986,77.61124,12.95741,77.59713,3.2,Cloudy,Low,Afternoon,Scooter,20,5,35
+5397,Jayanagar,Indiranagar,12.93147,77.59775,12.9693,77.64267,8.4,Clear,High,Night,Scooter,8,5,47
+5398,Indiranagar,HSR Layout,12.98385,77.65078,12.89945,77.65529,12.2,Rainy,Low,Evening,Scooter,9,1,60
+5399,Jayanagar,HSR Layout,12.93467,77.58456,12.92854,77.6488,9.1,Clear,Medium,Evening,Scooter,10,1,50
+5400,BTM Layout,Malleshwaram,12.92743,77.57627,12.99958,77.55178,11.0,Clear,High,Night,Scooter,29,6,70
+5401,BTM Layout,Hebbal,12.93344,77.6104,13.04113,77.59554,15.7,Cloudy,Medium,Morning,Scooter,9,1,65
+5402,Electronic City,Marathahalli,12.86599,77.66461,12.94954,77.69665,12.9,Foggy,Low,Morning,Car,22,1,72
+5403,BTM Layout,BTM Layout,12.91244,77.62364,12.91581,77.59302,4.3,Cloudy,High,Night,Scooter,7,5,41
+5404,Indiranagar,Indiranagar,12.9634,77.63322,12.97667,77.62612,2.2,Clear,Medium,Afternoon,Bike,15,5,37
+5405,Hebbal,MG Road,13.00374,77.5953,12.96683,77.62088,6.4,Stormy,High,Night,Scooter,11,1,66
+5406,Malleshwaram,Koramangala,12.99885,77.571,12.94728,77.59763,8.3,Clear,Medium,Night,Scooter,16,6,52
+5407,Koramangala,Marathahalli,12.94432,77.62221,12.94048,77.69917,10.9,Clear,Low,Night,Scooter,29,6,61
+5408,HSR Layout,MG Road,12.91614,77.64591,12.98483,77.60344,11.6,Cloudy,Medium,Night,Scooter,14,2,64
+5409,Electronic City,Malleshwaram,12.84658,77.66476,13.03747,77.58102,30.0,Clear,Medium,Morning,Scooter,7,1,101
+5410,HSR Layout,MG Road,12.9074,77.63695,12.96718,77.61384,9.2,Rainy,High,Night,Scooter,26,2,70
+5411,Whitefield,MG Road,12.96212,77.77051,12.97752,77.59624,24.6,Cloudy,Medium,Morning,Car,24,3,107
+5412,BTM Layout,Indiranagar,12.9132,77.60053,12.96094,77.6556,10.4,Rainy,Medium,Morning,Bike,20,2,64
+5413,Yelahanka,Marathahalli,13.10537,77.59823,12.96026,77.69046,24.7,Clear,Medium,Evening,Car,5,5,91
+5414,Indiranagar,Koramangala,12.95722,77.63834,12.9155,77.64802,6.2,Foggy,Low,Afternoon,Scooter,7,0,38
+5415,Yelahanka,BTM Layout,13.10945,77.5893,12.92567,77.62963,27.2,Foggy,Medium,Afternoon,Scooter,29,0,119
+5416,Malleshwaram,MG Road,12.986,77.57261,12.97098,77.60562,5.1,Clear,High,Afternoon,Scooter,7,5,34
+5417,MG Road,Koramangala,12.9737,77.62042,12.91403,77.6335,8.8,Clear,Low,Evening,Scooter,27,1,63
+5418,Electronic City,MG Road,12.83759,77.67915,12.96112,77.60877,20.4,Foggy,Medium,Afternoon,Scooter,24,6,99
+5419,Whitefield,Electronic City,12.96537,77.75846,12.82711,77.64921,25.2,Cloudy,Medium,Evening,Scooter,8,5,95
+5420,Jayanagar,HSR Layout,12.91243,77.58989,12.90935,77.65988,9.9,Clear,High,Night,Scooter,12,9,58
+5421,Indiranagar,Malleshwaram,12.96453,77.65262,13.0151,77.56957,13.8,Cloudy,Medium,Night,Scooter,20,0,74
+5422,HSR Layout,Malleshwaram,12.9088,77.63153,12.9998,77.57465,15.4,Cloudy,High,Afternoon,Bike,15,0,83
+5423,Indiranagar,Jayanagar,12.96534,77.64284,12.91174,77.60638,9.3,Foggy,Medium,Night,Bike,27,9,72
+5424,Indiranagar,Electronic City,13.00786,77.64852,12.83607,77.67689,25.2,Rainy,Low,Afternoon,Bike,20,3,100
+5425,BTM Layout,Whitefield,12.91155,77.61831,12.97226,77.76219,22.1,Rainy,Medium,Night,Bike,12,1,98
+5426,Jayanagar,MG Road,12.91706,77.5814,12.94686,77.6056,5.5,Cloudy,Medium,Evening,Scooter,12,9,40
+5427,Whitefield,Electronic City,12.96313,77.73343,12.8533,77.66111,18.9,Cloudy,Low,Morning,Scooter,13,9,74
+5428,BTM Layout,Indiranagar,12.90367,77.63142,12.98425,77.6456,11.8,Foggy,Low,Night,Scooter,23,5,65
+5429,Electronic City,HSR Layout,12.81565,77.65542,12.88246,77.64585,9.8,Foggy,Medium,Night,Car,17,6,67
+5430,MG Road,Whitefield,12.97245,77.58837,12.98507,77.74708,22.4,Rainy,Medium,Evening,Car,22,4,109
+5431,BTM Layout,Malleshwaram,12.92024,77.59655,12.98429,77.58677,9.4,Cloudy,Low,Morning,Scooter,14,0,47
+5432,Koramangala,MG Road,12.91707,77.62596,12.97371,77.61254,8.4,Clear,Medium,Night,Car,6,4,47
+5433,Marathahalli,Jayanagar,12.95908,77.71284,12.94012,77.61629,13.9,Cloudy,High,Night,Scooter,6,1,67
+5434,Koramangala,HSR Layout,12.9206,77.62573,12.89225,77.63816,4.5,Clear,Medium,Night,Scooter,19,5,43
+5435,Yelahanka,HSR Layout,13.10018,77.61194,12.88964,77.64684,30.8,Cloudy,High,Night,Car,28,4,134
+5436,HSR Layout,BTM Layout,12.91582,77.65133,12.90351,77.60486,6.8,Clear,Medium,Evening,Scooter,28,7,53
+5437,Indiranagar,Electronic City,12.98414,77.64766,12.83253,77.65549,21.9,Clear,Medium,Night,Scooter,14,8,82
+5438,Marathahalli,Hebbal,12.96423,77.71039,13.03467,77.5935,19.4,Clear,High,Night,Car,21,0,99
+5439,HSR Layout,Indiranagar,12.90306,77.64405,12.97251,77.63928,10.1,Cloudy,Medium,Night,Scooter,18,7,58
+5440,Koramangala,MG Road,12.94567,77.6292,12.97004,77.60157,5.2,Rainy,Low,Morning,Car,10,4,35
+5441,Hebbal,Malleshwaram,13.03033,77.59347,12.9981,77.5861,4.8,Clear,Low,Evening,Car,19,0,41
+5442,Marathahalli,Koramangala,12.9632,77.69086,12.93346,77.63249,9.3,Rainy,High,Evening,Scooter,11,0,60
+5443,Indiranagar,Marathahalli,12.98676,77.64977,12.94911,77.6885,7.7,Rainy,High,Night,Bike,29,7,71
+5444,Jayanagar,Koramangala,12.92125,77.58502,12.93969,77.61797,5.4,Clear,Medium,Morning,Bike,26,1,48
+5445,Marathahalli,Hebbal,12.94359,77.69942,13.03624,77.60582,18.8,Clear,Medium,Night,Bike,28,7,93
+5446,Indiranagar,HSR Layout,12.98566,77.63235,12.89961,77.65384,12.8,Clear,Low,Afternoon,Scooter,24,3,65
+5447,Yelahanka,Yelahanka,13.08719,77.59626,13.12351,77.58902,5.3,Rainy,High,Evening,Bike,25,8,60
+5448,HSR Layout,Electronic City,12.9008,77.64208,12.8301,77.67116,11.0,Clear,High,Evening,Scooter,11,1,68
+5449,Koramangala,Marathahalli,12.92186,77.63862,12.96859,77.68035,9.0,Clear,High,Afternoon,Scooter,13,0,61
+5450,MG Road,Hebbal,12.98561,77.60872,13.02716,77.59136,6.5,Clear,Medium,Evening,Bike,17,2,54
+5451,BTM Layout,Koramangala,12.91454,77.61196,12.94012,77.645,5.9,Clear,High,Night,Car,22,8,52
+5452,Hebbal,Indiranagar,13.00871,77.61769,12.98532,77.6098,3.6,Clear,Low,Night,Bike,13,4,32
+5453,BTM Layout,Whitefield,12.92531,77.57623,12.98089,77.74756,25.4,Rainy,Low,Night,Car,27,0,108
+5454,Jayanagar,Whitefield,12.94974,77.58123,12.98777,77.76172,26.0,Clear,Medium,Night,Scooter,25,8,101
+5455,Indiranagar,BTM Layout,12.99989,77.60869,12.90687,77.60836,13.4,Foggy,Medium,Night,Scooter,24,6,75
+5456,Whitefield,Hebbal,12.96287,77.75065,13.07143,77.5877,27.8,Clear,Medium,Afternoon,Bike,6,9,100
+5457,Whitefield,Yelahanka,12.97062,77.75597,13.1063,77.58571,31.0,Clear,Low,Morning,Scooter,16,1,105
+5458,Whitefield,Jayanagar,12.97579,77.7584,12.9157,77.56905,28.1,Stormy,Low,Afternoon,Scooter,5,4,102
+5459,Koramangala,Indiranagar,12.94581,77.62837,12.96245,77.62503,2.5,Clear,Medium,Night,Scooter,15,0,35
+5460,BTM Layout,Jayanagar,12.9169,77.60026,12.95445,77.59457,5.5,Clear,Medium,Night,Scooter,29,2,53
+5461,Indiranagar,Hebbal,12.96515,77.66244,13.0567,77.59022,16.7,Foggy,Medium,Evening,Bike,15,1,88
+5462,Yelahanka,BTM Layout,13.10964,77.60054,12.91716,77.60993,27.9,Rainy,Medium,Morning,Scooter,10,5,105
+5463,Hebbal,Electronic City,13.04306,77.59442,12.85533,77.6584,28.6,Cloudy,Medium,Night,Scooter,20,5,110
+5464,HSR Layout,Indiranagar,12.89551,77.63448,12.99535,77.64417,14.5,Clear,Medium,Night,Bike,10,3,69
+5465,Malleshwaram,Whitefield,12.99897,77.57026,12.97185,77.73026,22.9,Clear,Low,Night,Scooter,9,1,82
+5466,Electronic City,MG Road,12.8483,77.65479,12.97127,77.60312,19.2,Cloudy,Low,Morning,Scooter,26,8,75
+5467,Jayanagar,Whitefield,12.92484,77.58887,12.97024,77.74596,23.1,Stormy,Medium,Afternoon,Car,16,3,109
+5468,Hebbal,Jayanagar,13.04196,77.59993,12.93618,77.59008,15.4,Clear,Medium,Afternoon,Car,27,9,76
+5469,HSR Layout,Malleshwaram,12.92101,77.65045,13.00466,77.55413,18.2,Rainy,High,Afternoon,Scooter,22,9,88
+5470,Marathahalli,Jayanagar,12.96547,77.68796,12.91083,77.56774,18.7,Rainy,Medium,Morning,Car,19,0,91
+5471,BTM Layout,Koramangala,12.91509,77.62554,12.94537,77.63198,4.5,Foggy,High,Morning,Bike,18,5,55
+5472,Koramangala,Marathahalli,12.91887,77.61286,12.93884,77.70705,13.6,Rainy,High,Afternoon,Bike,9,0,73
+5473,BTM Layout,Whitefield,12.92385,77.59707,12.96152,77.77814,26.1,Clear,High,Night,Scooter,10,8,102
+5474,Indiranagar,Marathahalli,12.99507,77.64485,12.97521,77.70605,9.1,Cloudy,High,Night,Bike,11,7,59
+5475,MG Road,Koramangala,12.99917,77.60867,12.93904,77.644,10.0,Cloudy,Low,Night,Scooter,14,3,51
+5476,Electronic City,Malleshwaram,12.84466,77.66137,13.00729,77.57176,26.7,Cloudy,Medium,Night,Scooter,9,9,88
+5477,Yelahanka,Hebbal,13.10013,77.59168,13.03803,77.59247,9.0,Cloudy,Low,Night,Scooter,18,0,53
+5478,Jayanagar,Yelahanka,12.94221,77.59461,13.11428,77.60217,24.9,Clear,High,Afternoon,Scooter,5,2,91
+5479,Yelahanka,Yelahanka,13.11782,77.58983,13.101,77.58242,2.6,Rainy,Medium,Morning,Scooter,9,8,25
+5480,Koramangala,Hebbal,12.93914,77.605,13.01279,77.59987,10.7,Clear,High,Morning,Scooter,5,6,52
+5481,Hebbal,MG Road,13.0442,77.6061,12.97952,77.60549,9.3,Rainy,Medium,Night,Car,12,6,62
+5482,Koramangala,Indiranagar,12.92591,77.61261,12.9417,77.62825,3.2,Clear,Low,Afternoon,Bike,16,0,32
+5483,MG Road,Malleshwaram,12.98245,77.60431,12.97924,77.57921,3.6,Cloudy,Low,Night,Bike,16,3,38
+5484,MG Road,Malleshwaram,12.96553,77.61583,13.02383,77.57798,10.0,Stormy,Medium,Night,Bike,19,7,63
+5485,BTM Layout,HSR Layout,12.9147,77.61064,12.92525,77.65288,6.1,Clear,Low,Morning,Car,12,6,29
+5486,Electronic City,Whitefield,12.84356,77.69335,12.965,77.75969,19.9,Rainy,Medium,Morning,Scooter,8,4,80
+5487,Yelahanka,Indiranagar,13.09491,77.57974,12.97837,77.66037,20.3,Clear,Low,Morning,Bike,10,1,80
+5488,Hebbal,Electronic City,13.01029,77.58825,12.84714,77.65862,25.6,Stormy,Low,Night,Bike,5,9,97
+5489,Hebbal,Electronic City,13.02572,77.59828,12.85838,77.64414,25.0,Foggy,Low,Afternoon,Scooter,6,4,90
+5490,Malleshwaram,Indiranagar,13.00733,77.58119,12.9698,77.62949,8.7,Foggy,Low,Afternoon,Bike,9,9,49
+5491,BTM Layout,Koramangala,12.9157,77.60732,12.92526,77.6328,3.8,Foggy,Medium,Morning,Scooter,28,5,52
+5492,Koramangala,Koramangala,12.93031,77.60752,12.92836,77.62725,2.8,Clear,Medium,Morning,Bike,7,1,29
+5493,Malleshwaram,Malleshwaram,13.00847,77.57861,13.00606,77.54706,4.5,Cloudy,High,Night,Scooter,13,8,38
+5494,Koramangala,BTM Layout,12.9433,77.61363,12.9207,77.62583,3.7,Stormy,Low,Night,Scooter,7,2,34
+5495,Malleshwaram,Malleshwaram,13.0135,77.5625,12.99952,77.56729,2.1,Cloudy,Low,Morning,Scooter,22,5,31
+5496,HSR Layout,Hebbal,12.90174,77.65815,13.04599,77.61622,21.7,Stormy,Low,Morning,Car,11,6,85
+5497,Marathahalli,Whitefield,12.95917,77.68953,12.95811,77.76348,10.4,Foggy,Low,Afternoon,Scooter,23,2,63
+5498,BTM Layout,Yelahanka,12.9124,77.60483,13.10062,77.59119,27.3,Cloudy,Low,Night,Car,11,1,96
+5499,Koramangala,Yelahanka,12.92447,77.6305,13.09306,77.5975,24.8,Cloudy,Medium,Morning,Scooter,19,4,96
+5500,BTM Layout,Whitefield,12.89845,77.6078,12.9583,77.74134,20.7,Cloudy,Low,Afternoon,Scooter,7,6,70
+5501,MG Road,Koramangala,12.97422,77.61037,12.95111,77.61459,3.4,Clear,Low,Afternoon,Scooter,5,7,19
+5502,Electronic City,HSR Layout,12.83453,77.64897,12.90854,77.64394,10.7,Clear,Medium,Night,Scooter,7,7,54
+5503,Jayanagar,BTM Layout,12.95064,77.59249,12.9051,77.61615,7.4,Cloudy,Low,Morning,Car,14,6,43
+5504,BTM Layout,MG Road,12.91522,77.59711,12.97695,77.62319,9.6,Cloudy,High,Evening,Scooter,5,5,59
+5505,Electronic City,Whitefield,12.84231,77.64161,12.95836,77.73951,21.7,Foggy,Medium,Afternoon,Bike,6,9,87
+5506,Marathahalli,Malleshwaram,12.95413,77.71856,13.01167,77.57317,22.1,Cloudy,Medium,Night,Bike,16,4,93
+5507,Whitefield,Whitefield,12.99211,77.75554,12.98109,77.75061,1.7,Cloudy,Medium,Night,Scooter,24,0,46
+5508,Electronic City,BTM Layout,12.8337,77.67128,12.93005,77.60764,16.6,Rainy,Medium,Evening,Scooter,6,9,68
+5509,Marathahalli,HSR Layout,12.95697,77.68586,12.89947,77.661,9.0,Rainy,High,Afternoon,Scooter,25,9,70
+5510,Hebbal,Yelahanka,13.02636,77.59673,13.09977,77.59226,10.6,Stormy,Medium,Night,Scooter,21,8,68
+5511,Hebbal,MG Road,13.0341,77.5946,12.9991,77.6234,6.5,Rainy,Medium,Evening,Bike,25,1,67
+5512,Electronic City,Marathahalli,12.84457,77.64321,12.95734,77.69366,17.8,Cloudy,Low,Evening,Bike,27,7,85
+5513,Koramangala,Electronic City,12.94819,77.63112,12.86159,77.64946,12.8,Rainy,Medium,Evening,Scooter,10,9,68
+5514,Indiranagar,Whitefield,12.9612,77.6322,12.98941,77.75938,18.4,Clear,Low,Afternoon,Scooter,10,6,69
+5515,Whitefield,HSR Layout,12.96935,77.74762,12.89554,77.63031,19.7,Rainy,High,Afternoon,Scooter,12,7,89
+5516,Jayanagar,Hebbal,12.9442,77.57565,13.05155,77.58316,15.6,Clear,Medium,Morning,Car,10,1,64
+5517,BTM Layout,Whitefield,12.91028,77.62207,12.97993,77.74807,20.4,Foggy,High,Evening,Scooter,6,2,90
+5518,Indiranagar,Indiranagar,12.97607,77.64996,12.99005,77.64113,2.4,Foggy,High,Morning,Scooter,23,2,52
+5519,Koramangala,Yelahanka,12.92435,77.62926,13.12234,77.5934,29.1,Rainy,Low,Evening,Scooter,19,5,107
+5520,Malleshwaram,Jayanagar,12.97188,77.55384,12.93155,77.57059,6.3,Stormy,Medium,Night,Scooter,18,6,57
+5521,MG Road,Marathahalli,12.97414,77.60038,12.96097,77.6818,11.6,Clear,Low,Evening,Scooter,27,0,67
+5522,Yelahanka,Indiranagar,13.11461,77.61101,12.98681,77.64723,19.2,Clear,Medium,Night,Car,6,7,76
+5523,Jayanagar,Yelahanka,12.91918,77.59053,13.09738,77.60306,25.8,Cloudy,Low,Morning,Car,22,7,95
+5524,BTM Layout,Jayanagar,12.89424,77.61335,12.93199,77.58211,7.0,Clear,Low,Morning,Car,28,3,50
+5525,HSR Layout,Yelahanka,12.91459,77.64914,13.07692,77.59982,24.5,Clear,Low,Night,Scooter,19,3,94
+5526,HSR Layout,Jayanagar,12.91235,77.63403,12.94713,77.59661,7.3,Stormy,Medium,Afternoon,Bike,5,5,51
+5527,Yelahanka,Koramangala,13.1125,77.61464,12.92959,77.63698,26.6,Cloudy,Low,Morning,Bike,6,4,88
+5528,Indiranagar,Electronic City,12.98912,77.61704,12.85274,77.65183,20.3,Foggy,Medium,Afternoon,Scooter,18,3,93
+5529,MG Road,HSR Layout,12.97215,77.60954,12.91633,77.66515,11.2,Clear,Medium,Night,Bike,20,1,68
+5530,BTM Layout,Electronic City,12.9212,77.6091,12.84738,77.65696,12.6,Rainy,High,Morning,Scooter,10,8,67
+5531,Indiranagar,Whitefield,12.9566,77.62143,12.97207,77.7676,20.7,Clear,High,Night,Scooter,7,7,82
+5532,BTM Layout,Hebbal,12.92976,77.61413,13.03749,77.60842,15.6,Rainy,Medium,Morning,Scooter,23,4,79
+5533,Hebbal,Indiranagar,13.03783,77.60329,12.95919,77.62914,11.9,Rainy,Medium,Evening,Scooter,25,7,71
+5534,Marathahalli,HSR Layout,12.97192,77.69807,12.90579,77.6441,12.2,Rainy,Low,Night,Car,8,2,55
+5535,Whitefield,Marathahalli,12.98235,77.74012,12.97464,77.70122,5.6,Cloudy,Medium,Evening,Scooter,28,0,63
+5536,Malleshwaram,Electronic City,12.99985,77.57015,12.83355,77.67273,28.0,Rainy,Low,Night,Scooter,18,8,108
+5537,Koramangala,Koramangala,12.9332,77.63793,12.92314,77.60839,4.4,Clear,Medium,Evening,Car,27,9,47
+5538,Hebbal,Indiranagar,13.0251,77.5997,13.00523,77.63525,5.8,Rainy,Low,Night,Scooter,16,4,43
+5539,Koramangala,Marathahalli,12.9102,77.64524,12.97479,77.70524,12.6,Clear,High,Evening,Scooter,15,7,69
+5540,Electronic City,Whitefield,12.84341,77.67056,12.98984,77.75612,24.4,Clear,Medium,Afternoon,Car,15,7,93
+5541,Whitefield,Whitefield,12.97144,77.75929,12.97052,77.73787,3.0,Clear,High,Evening,Scooter,22,4,50
+5542,MG Road,BTM Layout,12.96237,77.62354,12.92077,77.59979,6.9,Rainy,High,Night,Bike,16,2,58
+5543,Jayanagar,MG Road,12.93334,77.58592,12.98581,77.61234,8.4,Clear,Medium,Afternoon,Bike,14,0,55
+5544,Whitefield,Marathahalli,12.97078,77.7438,12.96686,77.68558,8.2,Rainy,Low,Night,Bike,16,5,51
+5545,Indiranagar,Indiranagar,12.98364,77.64704,12.97818,77.64398,0.9,Clear,Low,Night,Bike,13,0,32
+5546,Hebbal,Electronic City,13.02636,77.60329,12.82811,77.67154,30.2,Cloudy,Medium,Night,Car,11,3,106
+5547,MG Road,HSR Layout,12.95422,77.62497,12.90344,77.64799,8.0,Clear,Medium,Morning,Car,27,8,58
+5548,Whitefield,BTM Layout,12.97893,77.76381,12.89894,77.57848,28.6,Clear,Medium,Afternoon,Car,16,1,111
+5549,Whitefield,Jayanagar,12.97693,77.75218,12.94508,77.60822,20.8,Rainy,High,Evening,Bike,5,5,89
+5550,Hebbal,BTM Layout,13.03428,77.5997,12.91246,77.62425,17.9,Foggy,High,Afternoon,Bike,8,6,78
+5551,Hebbal,Marathahalli,13.03054,77.59379,12.95764,77.71473,20.0,Clear,Medium,Afternoon,Scooter,19,7,85
+5552,Jayanagar,MG Road,12.92147,77.58953,12.97981,77.61747,9.3,Rainy,High,Evening,Scooter,8,7,54
+5553,Koramangala,Hebbal,12.93335,77.6192,13.03672,77.5773,16.1,Foggy,Medium,Night,Scooter,8,2,76
+5554,HSR Layout,Whitefield,12.90529,77.65838,12.97696,77.76732,18.5,Foggy,Low,Night,Scooter,19,6,82
+5555,Hebbal,Marathahalli,13.01146,77.59149,12.95214,77.70193,17.8,Stormy,Low,Afternoon,Scooter,16,3,82
+5556,Marathahalli,Hebbal,12.96831,77.6933,13.0178,77.60863,13.9,Clear,Medium,Afternoon,Scooter,16,4,66
+5557,Marathahalli,Jayanagar,12.94096,77.69948,12.94709,77.59232,15.1,Rainy,Medium,Night,Scooter,28,8,83
+5558,Indiranagar,Whitefield,12.9742,77.63483,12.96171,77.7475,16.0,Clear,Low,Afternoon,Scooter,19,7,69
+5559,MG Road,Malleshwaram,12.97172,77.60426,12.99829,77.56229,7.0,Clear,High,Night,Scooter,5,8,43
+5560,HSR Layout,Marathahalli,12.91453,77.62143,12.94996,77.71688,14.4,Cloudy,Medium,Morning,Bike,18,1,74
+5561,Whitefield,Indiranagar,12.95024,77.75473,12.97227,77.64449,15.9,Stormy,High,Morning,Scooter,18,4,86
+5562,Indiranagar,Electronic City,12.99269,77.6374,12.846,77.65819,21.4,Clear,Low,Afternoon,Scooter,20,0,91
+5563,MG Road,BTM Layout,12.98328,77.6094,12.92629,77.59521,8.5,Clear,Medium,Afternoon,Scooter,7,1,49
+5564,Marathahalli,Hebbal,12.96816,77.70215,13.02346,77.60303,16.1,Stormy,Medium,Morning,Scooter,11,2,81
+5565,Hebbal,Jayanagar,13.05083,77.5751,12.92906,77.59435,17.8,Rainy,High,Evening,Car,18,2,92
+5566,HSR Layout,Hebbal,12.90185,77.67665,13.02807,77.59928,21.3,Clear,Medium,Afternoon,Scooter,29,7,97
+5567,Jayanagar,Electronic City,12.88722,77.59622,12.86037,77.67242,11.4,Clear,Low,Evening,Scooter,20,2,57
+5568,Whitefield,MG Road,12.97364,77.75276,12.96104,77.61587,19.4,Clear,High,Afternoon,Scooter,11,5,82
+5569,Jayanagar,Electronic City,12.94061,77.57311,12.84689,77.66067,18.3,Clear,Medium,Evening,Scooter,25,9,83
+5570,MG Road,BTM Layout,12.98942,77.6151,12.92576,77.61311,9.2,Foggy,Low,Morning,Bike,11,3,49
+5571,Koramangala,MG Road,12.92865,77.6304,12.95945,77.6083,5.4,Rainy,Low,Night,Scooter,9,3,40
+5572,Malleshwaram,Whitefield,13.00229,77.56144,12.97156,77.759,28.2,Clear,Low,Morning,Car,11,6,94
+5573,Jayanagar,Koramangala,12.92833,77.59794,12.93739,77.63319,5.1,Cloudy,High,Morning,Car,27,9,52
+5574,Electronic City,Indiranagar,12.82341,77.67687,12.96907,77.64291,21.6,Cloudy,Medium,Evening,Car,5,3,80
+5575,HSR Layout,Jayanagar,12.90351,77.64476,12.92275,77.58399,9.0,Foggy,High,Morning,Scooter,24,5,64
+5576,Indiranagar,Koramangala,12.97068,77.63142,12.94765,77.63502,3.4,Stormy,Medium,Morning,Scooter,29,3,50
+5577,BTM Layout,Yelahanka,12.93553,77.62763,13.10406,77.60749,24.5,Clear,High,Evening,Bike,24,7,114
+5578,Koramangala,HSR Layout,12.92731,77.6293,12.90691,77.63502,3.1,Clear,High,Evening,Bike,26,7,53
+5579,HSR Layout,Malleshwaram,12.93039,77.64694,13.00131,77.56975,14.9,Rainy,Medium,Morning,Car,10,9,66
+5580,Electronic City,Malleshwaram,12.84531,77.68952,13.00928,77.56048,29.9,Clear,Low,Evening,Bike,29,9,123
+5581,Yelahanka,Marathahalli,13.08053,77.59995,12.97486,77.67166,18.3,Cloudy,Medium,Morning,Bike,7,0,77
+5582,Jayanagar,Whitefield,12.95157,77.59347,12.97979,77.74985,22.4,Rainy,Medium,Night,Car,16,9,94
+5583,MG Road,Whitefield,12.96391,77.61176,12.979,77.76174,21.2,Cloudy,High,Morning,Scooter,17,0,97
+5584,Jayanagar,BTM Layout,12.9324,77.59075,12.93592,77.60173,1.6,Clear,Low,Afternoon,Bike,25,2,35
+5585,Malleshwaram,Jayanagar,13.02397,77.56903,12.90652,77.58572,17.1,Clear,Medium,Morning,Bike,26,1,78
+5586,BTM Layout,Whitefield,12.91018,77.61364,12.95263,77.76255,21.9,Cloudy,Low,Night,Bike,24,5,95
+5587,Jayanagar,Koramangala,12.91023,77.58766,12.90787,77.61167,3.4,Clear,Medium,Afternoon,Scooter,10,4,29
+5588,BTM Layout,BTM Layout,12.92909,77.60871,12.92697,77.59916,1.4,Stormy,Medium,Night,Bike,10,2,36
+5589,Electronic City,MG Road,12.84599,77.66562,12.94806,77.60331,17.2,Clear,Low,Afternoon,Scooter,10,4,64
+5590,Marathahalli,Koramangala,12.94437,77.70367,12.93489,77.63226,10.2,Foggy,Medium,Afternoon,Scooter,18,1,64
+5591,Marathahalli,Marathahalli,12.94613,77.70605,12.96846,77.70522,3.2,Clear,High,Evening,Bike,16,8,49
+5592,Yelahanka,Whitefield,13.09602,77.60736,12.95307,77.74399,28.2,Cloudy,High,Afternoon,Scooter,6,2,104
+5593,BTM Layout,Koramangala,12.92817,77.61471,12.92738,77.6211,0.9,Foggy,High,Night,Scooter,18,6,38
+5594,HSR Layout,Indiranagar,12.90816,77.65521,12.97539,77.64216,9.9,Rainy,Medium,Morning,Scooter,25,7,66
+5595,Marathahalli,Electronic City,12.96695,77.69442,12.8542,77.65583,17.2,Clear,Low,Evening,Scooter,15,4,75
+5596,Jayanagar,HSR Layout,12.94483,77.59228,12.89337,77.63735,9.8,Clear,Medium,Evening,Scooter,13,7,54
+5597,Malleshwaram,HSR Layout,13.01873,77.5787,12.91561,77.6346,16.9,Clear,High,Night,Car,7,9,70
+5598,Electronic City,Electronic City,12.86245,77.63801,12.85378,77.669,4.5,Cloudy,Medium,Morning,Car,25,4,44
+5599,Jayanagar,Malleshwaram,12.93978,77.59972,13.00536,77.56235,10.8,Stormy,Medium,Night,Scooter,6,3,61
+5600,Electronic City,Electronic City,12.8259,77.69958,12.84723,77.69473,3.2,Clear,Low,Afternoon,Scooter,20,3,39
+5601,Jayanagar,Electronic City,12.93968,77.57299,12.86042,77.66793,17.6,Clear,Low,Evening,Car,13,6,70
+5602,Koramangala,BTM Layout,12.93914,77.64386,12.91939,77.60138,6.6,Cloudy,Medium,Morning,Scooter,19,3,49
+5603,Koramangala,Jayanagar,12.93371,77.60472,12.92483,77.59409,2.0,Clear,High,Morning,Scooter,10,9,32
+5604,Yelahanka,Jayanagar,13.08768,77.60188,12.92105,77.59815,24.1,Foggy,Medium,Evening,Bike,11,3,108
+5605,BTM Layout,Whitefield,12.89753,77.63075,12.97776,77.75503,21.0,Clear,Medium,Evening,Car,15,0,95
+5606,MG Road,Malleshwaram,12.96227,77.62574,13.0001,77.5703,9.5,Rainy,Low,Evening,Bike,24,8,64
+5607,Koramangala,Malleshwaram,12.93494,77.61465,13.01148,77.57039,12.7,Foggy,Low,Morning,Car,6,8,50
+5608,Koramangala,Electronic City,12.9211,77.60987,12.84649,77.65881,12.8,Clear,Medium,Evening,Bike,10,3,64
+5609,Yelahanka,HSR Layout,13.0909,77.57996,12.92531,77.65544,26.2,Rainy,Low,Morning,Bike,18,7,100
+5610,HSR Layout,Yelahanka,12.9042,77.65686,13.09123,77.62272,27.5,Rainy,Medium,Night,Scooter,8,2,100
+5611,Whitefield,Whitefield,12.9778,77.74612,12.97077,77.74499,1.0,Rainy,Low,Afternoon,Scooter,12,3,30
+5612,Hebbal,Jayanagar,13.03226,77.59784,12.92928,77.5895,14.9,Rainy,Medium,Evening,Bike,12,8,73
+5613,Jayanagar,Koramangala,12.92325,77.59764,12.94025,77.63324,5.6,Cloudy,Medium,Night,Bike,17,2,48
+5614,HSR Layout,Hebbal,12.92751,77.65303,13.04951,77.61217,18.6,Clear,Low,Afternoon,Car,21,1,77
+5615,Indiranagar,Indiranagar,12.97455,77.6479,12.98321,77.65084,1.3,Cloudy,High,Afternoon,Bike,14,0,41
+5616,Electronic City,BTM Layout,12.85239,77.66233,12.92757,77.62491,12.1,Clear,High,Afternoon,Bike,23,9,72
+5617,Yelahanka,Electronic City,13.08801,77.57765,12.8689,77.65987,33.7,Rainy,Low,Afternoon,Scooter,11,4,118
+5618,Malleshwaram,Malleshwaram,13.00745,77.58277,13.01372,77.5622,3.0,Cloudy,Medium,Evening,Scooter,7,4,27
+5619,HSR Layout,Hebbal,12.91303,77.61503,13.02311,77.60509,16.0,Clear,High,Afternoon,Bike,5,8,71
+5620,Indiranagar,HSR Layout,12.9805,77.6562,12.89446,77.65572,12.4,Clear,Medium,Afternoon,Scooter,28,7,69
+5621,Malleshwaram,MG Road,12.9979,77.55802,12.98372,77.62706,9.9,Clear,High,Night,Scooter,16,5,67
+5622,Koramangala,Whitefield,12.92283,77.62267,12.96531,77.7689,21.5,Clear,Low,Afternoon,Car,10,5,77
+5623,Marathahalli,Malleshwaram,12.95551,77.69166,13.00705,77.54313,22.2,Clear,Low,Evening,Bike,29,6,104
+5624,Malleshwaram,BTM Layout,12.99788,77.56078,12.91456,77.61966,14.6,Rainy,Low,Afternoon,Bike,27,6,85
+5625,Hebbal,BTM Layout,13.0482,77.59725,12.93239,77.60235,16.8,Clear,High,Morning,Scooter,8,5,71
+5626,Jayanagar,Yelahanka,12.93589,77.59094,13.11519,77.57134,26.1,Clear,Low,Morning,Car,18,6,100
+5627,Electronic City,Yelahanka,12.83077,77.64751,13.08718,77.60123,37.6,Foggy,High,Night,Bike,28,5,160
+5628,BTM Layout,Yelahanka,12.92413,77.62077,13.10403,77.59451,26.3,Stormy,Low,Night,Scooter,29,5,111
+5629,Koramangala,Electronic City,12.92944,77.61801,12.84162,77.65626,13.8,Foggy,Medium,Afternoon,Scooter,28,2,80
+5630,Electronic City,MG Road,12.85071,77.67678,12.95988,77.59166,19.8,Cloudy,Medium,Night,Scooter,7,9,79
+5631,Hebbal,BTM Layout,13.03002,77.59563,12.92443,77.59816,15.3,Stormy,High,Afternoon,Scooter,26,6,92
+5632,Yelahanka,HSR Layout,13.08304,77.58829,12.90991,77.64503,26.3,Foggy,Medium,Evening,Car,19,5,113
+5633,MG Road,Malleshwaram,12.9878,77.6125,13.00887,77.547,9.7,Rainy,Medium,Evening,Scooter,27,5,70
+5634,Koramangala,BTM Layout,12.94063,77.63561,12.94643,77.60897,3.8,Rainy,Medium,Evening,Scooter,17,5,49
+5635,Marathahalli,Yelahanka,12.94439,77.68676,13.11671,77.59782,27.9,Rainy,Low,Evening,Scooter,25,5,113
+5636,Koramangala,MG Road,12.9125,77.62155,12.98891,77.60513,11.3,Cloudy,High,Morning,Scooter,9,7,55
+5637,Yelahanka,Marathahalli,13.09429,77.61387,12.95423,77.70112,23.7,Foggy,Medium,Morning,Scooter,18,7,96
+5638,Malleshwaram,Yelahanka,12.98932,77.55317,13.08651,77.59562,15.3,Foggy,Medium,Afternoon,Scooter,23,4,79
+5639,Koramangala,Koramangala,12.93083,77.61475,12.95024,77.61073,2.9,Rainy,Medium,Morning,Car,13,9,32
+5640,MG Road,Jayanagar,12.98304,77.60925,12.92138,77.58156,9.7,Rainy,Medium,Night,Bike,16,3,62
+5641,MG Road,Koramangala,12.99323,77.59267,12.93576,77.62622,9.6,Cloudy,Low,Night,Scooter,18,8,50
+5642,Koramangala,MG Road,12.93092,77.59537,12.9711,77.61845,6.7,Clear,High,Night,Bike,26,6,62
+5643,Malleshwaram,Malleshwaram,13.02003,77.54513,13.00473,77.5666,3.7,Stormy,Medium,Morning,Bike,6,5,38
+5644,Indiranagar,Electronic City,12.99237,77.64574,12.87416,77.65429,17.1,Cloudy,High,Morning,Scooter,25,4,88
+5645,Electronic City,Malleshwaram,12.83999,77.6685,12.99973,77.56678,27.2,Stormy,Low,Evening,Scooter,28,5,121
+5646,Electronic City,Koramangala,12.8252,77.66775,12.93183,77.60295,17.9,Clear,Medium,Night,Scooter,10,1,76
+5647,Koramangala,Indiranagar,12.94544,77.62963,12.98085,77.62898,5.1,Clear,Medium,Afternoon,Bike,10,9,39
+5648,Electronic City,Hebbal,12.85252,77.64585,13.03924,77.59255,28.0,Rainy,Medium,Morning,Car,13,5,103
+5649,Malleshwaram,MG Road,13.03176,77.57327,12.96118,77.6061,11.2,Rainy,High,Evening,Scooter,24,6,77
+5650,Jayanagar,Hebbal,12.94218,77.60807,13.01446,77.59316,10.7,Cloudy,Low,Night,Bike,11,3,51
+5651,Jayanagar,MG Road,12.93441,77.58587,12.96858,77.60361,5.5,Cloudy,Medium,Evening,Scooter,21,1,46
+5652,BTM Layout,Koramangala,12.93689,77.62186,12.93261,77.61034,1.7,Stormy,Low,Morning,Scooter,23,5,46
+5653,MG Road,Koramangala,12.96306,77.60285,12.92569,77.61767,5.8,Rainy,Low,Morning,Scooter,19,7,39
+5654,Electronic City,Whitefield,12.84756,77.66294,12.95769,77.753,20.4,Cloudy,Low,Night,Scooter,25,8,90
+5655,Hebbal,Koramangala,13.03257,77.60187,12.9238,77.60249,15.7,Clear,High,Afternoon,Scooter,10,8,72
+5656,MG Road,Yelahanka,12.99656,77.58943,13.09582,77.58194,14.4,Clear,Medium,Night,Scooter,24,9,75
+5657,Whitefield,Koramangala,12.97664,77.76805,12.9336,77.62034,21.7,Clear,Medium,Afternoon,Scooter,25,2,95
+5658,Jayanagar,MG Road,12.88835,77.584,12.95583,77.62453,11.3,Clear,High,Morning,Bike,5,9,48
+5659,Hebbal,Malleshwaram,13.05232,77.59626,12.9967,77.57279,8.7,Rainy,Medium,Morning,Scooter,23,1,62
+5660,Koramangala,Jayanagar,12.9244,77.61905,12.92904,77.61251,1.1,Stormy,Low,Morning,Scooter,20,0,37
+5661,Electronic City,Malleshwaram,12.85462,77.66617,13.00177,77.58075,24.4,Foggy,Medium,Evening,Scooter,6,1,98
+5662,Electronic City,Yelahanka,12.83956,77.66586,13.08412,77.59093,36.9,Clear,High,Evening,Bike,5,9,130
+5663,Whitefield,Malleshwaram,12.97285,77.75073,12.99895,77.56387,26.6,Clear,Medium,Afternoon,Scooter,13,2,104
+5664,Whitefield,Jayanagar,12.97755,77.76745,12.92449,77.57975,27.5,Cloudy,High,Afternoon,Bike,29,9,123
+5665,BTM Layout,Whitefield,12.91906,77.61397,12.97874,77.76405,22.8,Foggy,High,Night,Bike,17,6,105
+5666,Electronic City,Indiranagar,12.8339,77.65589,12.95858,77.64952,18.0,Clear,High,Night,Scooter,27,4,101
+5667,Malleshwaram,Marathahalli,13.02044,77.53063,12.967,77.70448,25.7,Clear,Medium,Morning,Bike,29,2,110
+5668,Koramangala,BTM Layout,12.94013,77.62161,12.91073,77.61803,4.3,Cloudy,High,Afternoon,Scooter,14,3,38
+5669,Yelahanka,Malleshwaram,13.10067,77.59331,13.00561,77.57021,14.1,Rainy,Medium,Morning,Bike,5,9,60
+5670,Jayanagar,Hebbal,12.93365,77.58384,13.04366,77.5995,16.1,Cloudy,High,Morning,Car,13,4,77
+5671,Electronic City,HSR Layout,12.83896,77.65036,12.90081,77.65071,8.9,Clear,Low,Evening,Car,12,3,50
+5672,Malleshwaram,Jayanagar,13.02632,77.57231,12.91497,77.6083,16.9,Rainy,Medium,Night,Car,7,1,71
+5673,Yelahanka,Hebbal,13.10359,77.60933,13.03408,77.58758,10.5,Foggy,Low,Morning,Bike,14,7,55
+5674,Hebbal,Whitefield,13.04039,77.62023,12.97813,77.73751,18.8,Rainy,Medium,Evening,Bike,18,6,89
+5675,BTM Layout,HSR Layout,12.92097,77.6243,12.9047,77.64745,4.0,Clear,Medium,Afternoon,Car,10,1,34
+5676,Marathahalli,Jayanagar,12.94836,77.6894,12.90767,77.60769,12.9,Clear,Medium,Evening,Bike,21,2,75
+5677,Yelahanka,BTM Layout,13.08682,77.59987,12.90786,77.61299,25.9,Cloudy,Medium,Night,Bike,25,3,110
+5678,Electronic City,Electronic City,12.84802,77.64433,12.84939,77.65776,1.9,Cloudy,Low,Evening,Bike,23,2,44
+5679,Yelahanka,Koramangala,13.10515,77.60556,12.94868,77.63449,23.0,Clear,Low,Evening,Scooter,17,4,89
+5680,Malleshwaram,Indiranagar,13.01987,77.56949,12.97189,77.64216,12.4,Clear,Low,Night,Scooter,8,4,51
+5681,Whitefield,Indiranagar,12.97544,77.74317,12.97406,77.61811,17.6,Cloudy,Medium,Evening,Bike,17,5,83
+5682,HSR Layout,Indiranagar,12.89876,77.64663,12.97579,77.62879,11.4,Cloudy,Low,Afternoon,Scooter,18,8,58
+5683,Koramangala,Yelahanka,12.94175,77.62199,13.09861,77.57132,23.8,Stormy,High,Morning,Scooter,20,3,111
+5684,MG Road,Koramangala,12.98576,77.59966,12.92338,77.6219,9.5,Rainy,Medium,Afternoon,Car,22,0,64
+5685,Indiranagar,Hebbal,12.99067,77.65715,13.03002,77.59169,10.8,Cloudy,Medium,Morning,Scooter,17,5,58
+5686,BTM Layout,MG Road,12.92084,77.64786,12.97767,77.61209,9.6,Clear,Medium,Night,Scooter,25,5,65
+5687,Marathahalli,MG Road,12.94467,77.70778,12.97632,77.63209,11.6,Clear,Low,Night,Scooter,14,7,54
+5688,Hebbal,MG Road,13.04997,77.6102,12.97535,77.59971,10.9,Rainy,Medium,Evening,Scooter,5,9,51
+5689,Whitefield,Jayanagar,12.96125,77.75243,12.91245,77.59394,23.4,Cloudy,Low,Morning,Scooter,24,7,90
+5690,Marathahalli,Malleshwaram,12.96622,77.69371,12.99641,77.56019,19.3,Rainy,Medium,Morning,Scooter,17,8,79
+5691,MG Road,Malleshwaram,12.95695,77.63365,12.99445,77.53114,15.4,Clear,Low,Night,Bike,8,1,68
+5692,Yelahanka,Jayanagar,13.11011,77.59242,12.93704,77.58475,25.0,Stormy,Medium,Night,Scooter,12,1,104
+5693,Yelahanka,Indiranagar,13.09151,77.60156,12.99525,77.63225,14.6,Cloudy,Medium,Night,Scooter,23,3,78
+5694,Marathahalli,Malleshwaram,12.97232,77.69648,13.00707,77.56804,18.8,Cloudy,Low,Evening,Scooter,18,2,83
+5695,Hebbal,Indiranagar,13.0572,77.6046,12.99693,77.63084,9.5,Rainy,Low,Afternoon,Scooter,11,0,50
+5696,Indiranagar,Yelahanka,12.99266,77.64072,13.09668,77.58093,17.2,Rainy,Low,Morning,Scooter,18,0,79
+5697,Koramangala,Koramangala,12.92141,77.63213,12.93124,77.6316,1.4,Rainy,High,Night,Bike,21,4,49
+5698,Koramangala,Indiranagar,12.92409,77.60981,12.9624,77.64009,7.0,Clear,High,Afternoon,Bike,14,7,53
+5699,Marathahalli,MG Road,12.94887,77.6967,12.97785,77.59617,14.8,Clear,Medium,Night,Bike,21,9,69
+5700,MG Road,Electronic City,12.98377,77.62376,12.83928,77.65121,21.2,Cloudy,Low,Evening,Scooter,28,0,98
+5701,BTM Layout,BTM Layout,12.92096,77.59821,12.91722,77.60658,1.3,Rainy,Medium,Evening,Scooter,8,5,28
+5702,Electronic City,Koramangala,12.84731,77.6527,12.94054,77.63436,13.7,Rainy,Medium,Night,Scooter,20,6,71
+5703,BTM Layout,MG Road,12.92052,77.62706,12.97224,77.62387,7.5,Clear,Low,Evening,Scooter,14,6,44
+5704,Hebbal,HSR Layout,13.04296,77.60236,12.89774,77.63185,21.4,Rainy,Medium,Evening,Scooter,12,8,84
+5705,Koramangala,MG Road,12.94322,77.63784,12.97461,77.62081,5.1,Rainy,High,Morning,Scooter,15,3,50
+5706,HSR Layout,Koramangala,12.93207,77.62106,12.93388,77.62523,0.6,Rainy,Medium,Evening,Scooter,28,6,36
+5707,Hebbal,Jayanagar,13.03532,77.59925,12.92489,77.5982,16.0,Stormy,Medium,Morning,Scooter,25,6,84
+5708,Jayanagar,Koramangala,12.92763,77.57899,12.9428,77.63619,8.4,Cloudy,High,Evening,Bike,13,8,56
+5709,Indiranagar,Hebbal,12.95631,77.6246,13.03281,77.58556,12.4,Rainy,Low,Morning,Scooter,12,3,62
+5710,Yelahanka,Indiranagar,13.08499,77.60173,12.97479,77.65115,17.4,Foggy,High,Afternoon,Scooter,24,6,92
+5711,Hebbal,HSR Layout,13.02764,77.61171,12.93183,77.63188,14.1,Clear,High,Night,Scooter,6,3,67
+5712,Koramangala,Electronic City,12.92112,77.60702,12.85758,77.65472,11.4,Stormy,High,Night,Scooter,23,0,74
+5713,MG Road,Yelahanka,12.9784,77.59399,13.09923,77.58623,17.5,Clear,Medium,Evening,Scooter,24,4,84
+5714,Hebbal,Yelahanka,13.04844,77.59047,13.0892,77.61655,6.9,Rainy,High,Evening,Scooter,8,1,50
+5715,Indiranagar,HSR Layout,12.9733,77.63975,12.90593,77.6671,10.5,Clear,Medium,Afternoon,Scooter,28,2,70
+5716,Koramangala,Whitefield,12.92949,77.60899,12.97399,77.75916,22.1,Clear,Medium,Morning,Bike,13,8,90
+5717,Electronic City,BTM Layout,12.83917,77.68782,12.9263,77.61636,16.1,Clear,Medium,Morning,Car,13,8,68
+5718,MG Road,Hebbal,12.97727,77.61433,13.06411,77.59077,13.0,Rainy,Low,Evening,Car,10,1,64
+5719,Electronic City,Whitefield,12.83876,77.65633,12.96659,77.77092,24.5,Clear,Low,Morning,Scooter,19,3,94
+5720,Hebbal,MG Road,13.04101,77.59121,12.97716,77.62362,10.3,Cloudy,Medium,Night,Scooter,28,3,68
+5721,MG Road,BTM Layout,12.97929,77.63519,12.91213,77.62098,9.9,Rainy,Medium,Afternoon,Bike,7,9,54
+5722,Hebbal,Whitefield,13.04,77.62438,12.97054,77.74881,20.2,Clear,Low,Night,Scooter,15,4,81
+5723,Malleshwaram,Indiranagar,13.01273,77.55924,12.97365,77.63679,12.3,Clear,High,Morning,Scooter,18,5,66
+5724,Electronic City,HSR Layout,12.84563,77.6648,12.89872,77.64656,8.1,Stormy,Low,Afternoon,Car,27,7,59
+5725,Indiranagar,Jayanagar,12.98017,77.65637,12.93698,77.60984,9.1,Clear,Low,Evening,Scooter,16,9,51
+5726,Whitefield,Koramangala,12.99096,77.73615,12.93658,77.6134,19.0,Cloudy,Medium,Morning,Bike,20,9,83
+5727,Electronic City,Marathahalli,12.84469,77.65353,12.97423,77.699,19.8,Cloudy,High,Night,Scooter,20,0,94
+5728,Yelahanka,HSR Layout,13.1103,77.61294,12.90551,77.66712,30.6,Foggy,Medium,Evening,Car,24,7,132
+5729,Koramangala,Malleshwaram,12.93587,77.61652,13.00653,77.57548,11.7,Rainy,High,Night,Bike,9,3,68
+5730,Whitefield,Malleshwaram,12.96431,77.74517,13.01123,77.58573,23.5,Cloudy,High,Morning,Scooter,10,1,94
+5731,Hebbal,Marathahalli,13.03032,77.58113,12.93674,77.70262,21.8,Clear,Medium,Night,Scooter,13,2,84
+5732,Koramangala,Yelahanka,12.92536,77.61569,13.08498,77.60171,23.2,Foggy,High,Evening,Scooter,14,0,102
+5733,Jayanagar,Electronic City,12.92514,77.60239,12.85408,77.67699,14.7,Clear,Medium,Morning,Car,23,8,75
+5734,MG Road,Koramangala,12.96834,77.5972,12.93637,77.63261,6.8,Foggy,Medium,Evening,Car,25,4,62
+5735,HSR Layout,Malleshwaram,12.90651,77.63197,12.98171,77.56914,14.0,Rainy,Medium,Afternoon,Scooter,14,8,68
+5736,Koramangala,Yelahanka,12.94982,77.61722,13.09195,77.59058,20.9,Cloudy,Low,Evening,Scooter,22,1,87
+5737,MG Road,BTM Layout,12.97398,77.62843,12.90415,77.5928,11.3,Stormy,Low,Night,Scooter,18,0,69
+5738,Yelahanka,Jayanagar,13.11437,77.59869,12.91931,77.61195,28.3,Rainy,High,Evening,Scooter,28,3,128
+5739,Marathahalli,Jayanagar,12.96227,77.69089,12.94338,77.58924,14.6,Cloudy,Medium,Night,Bike,17,2,73
+5740,Indiranagar,Jayanagar,12.98873,77.64288,12.91826,77.58535,13.0,Rainy,High,Evening,Scooter,24,6,75
+5741,BTM Layout,Indiranagar,12.90925,77.61567,13.00252,77.65157,14.4,Clear,Low,Night,Bike,7,4,63
+5742,Marathahalli,Koramangala,12.96084,77.69908,12.93231,77.61439,12.6,Cloudy,Low,Afternoon,Bike,21,4,66
+5743,Malleshwaram,HSR Layout,13.0351,77.54311,12.90301,77.63178,22.8,Clear,Low,Morning,Bike,28,5,95
+5744,MG Road,BTM Layout,12.9855,77.6106,12.9353,77.6038,7.3,Clear,Low,Afternoon,Car,21,3,50
+5745,Malleshwaram,Whitefield,13.01551,77.56231,12.98118,77.74975,26.9,Clear,Medium,Afternoon,Scooter,16,0,102
+5746,Whitefield,Whitefield,12.97256,77.76035,12.98631,77.75374,2.2,Cloudy,Low,Night,Scooter,11,4,32
+5747,Electronic City,Marathahalli,12.85545,77.64404,12.98234,77.70401,20.2,Clear,Medium,Night,Car,15,2,89
+5748,Malleshwaram,Jayanagar,12.98951,77.5775,12.93782,77.60586,8.5,Clear,Low,Evening,Scooter,8,9,40
+5749,Indiranagar,Indiranagar,12.96813,77.63496,12.99312,77.63994,3.7,Clear,Medium,Afternoon,Bike,29,0,55
+5750,Whitefield,Jayanagar,12.97489,77.72952,12.90486,77.59869,21.0,Stormy,Medium,Evening,Bike,19,7,99
+5751,Marathahalli,Koramangala,12.96888,77.71358,12.92569,77.62372,14.1,Clear,Medium,Evening,Bike,28,9,80
+5752,Electronic City,BTM Layout,12.84021,77.65408,12.92213,77.60305,13.9,Clear,High,Afternoon,Bike,19,1,80
+5753,Malleshwaram,Yelahanka,13.00118,77.56931,13.10344,77.60165,15.5,Foggy,Medium,Night,Bike,19,6,78
+5754,Indiranagar,Malleshwaram,12.97398,77.63893,13.01238,77.56947,11.2,Clear,Medium,Night,Scooter,26,4,70
+5755,Hebbal,Marathahalli,13.03346,77.61028,12.95381,77.71999,19.3,Rainy,High,Night,Scooter,6,6,86
+5756,Electronic City,Marathahalli,12.8307,77.67361,12.97267,77.70509,21.0,Clear,Low,Afternoon,Scooter,11,7,81
+5757,Malleshwaram,Electronic City,12.9862,77.57823,12.86954,77.65249,19.8,Clear,Low,Morning,Scooter,7,2,66
+5758,Koramangala,MG Road,12.93411,77.63318,12.98297,77.61447,7.5,Rainy,Medium,Evening,Scooter,11,9,54
+5759,MG Road,Whitefield,12.95463,77.58733,12.98019,77.74761,22.9,Rainy,Low,Afternoon,Scooter,21,8,92
+5760,MG Road,Malleshwaram,12.96373,77.58651,13.01,77.58403,6.7,Clear,Low,Evening,Car,28,3,52
+5761,Indiranagar,MG Road,12.97034,77.64324,12.98712,77.58714,8.3,Cloudy,Medium,Morning,Scooter,8,8,42
+5762,BTM Layout,Jayanagar,12.90381,77.59859,12.92807,77.58653,3.9,Clear,Medium,Evening,Bike,17,8,45
+5763,Jayanagar,HSR Layout,12.9277,77.59944,12.90616,77.64016,6.5,Foggy,Low,Morning,Scooter,7,0,39
+5764,Whitefield,Jayanagar,12.96427,77.75201,12.92789,77.59582,22.6,Clear,Medium,Night,Scooter,17,7,92
+5765,MG Road,Yelahanka,12.97444,77.5897,13.10255,77.59536,18.5,Cloudy,Medium,Night,Scooter,28,9,91
+5766,Whitefield,Malleshwaram,12.95747,77.73746,12.98595,77.54643,27.2,Stormy,Medium,Afternoon,Bike,21,1,124
+5767,MG Road,Jayanagar,12.96648,77.59308,12.92835,77.57229,6.2,Clear,High,Morning,Car,22,9,55
+5768,Hebbal,Jayanagar,13.04171,77.58625,12.92589,77.59657,16.8,Rainy,Low,Morning,Scooter,5,0,67
+5769,Jayanagar,Electronic City,12.92911,77.59128,12.84824,77.67819,16.9,Cloudy,Low,Night,Car,26,7,80
+5770,BTM Layout,Electronic City,12.91076,77.61832,12.83927,77.67805,13.3,Foggy,Low,Morning,Scooter,9,0,62
+5771,Yelahanka,Yelahanka,13.1048,77.61248,13.107,77.59217,2.9,Foggy,Medium,Morning,Car,17,4,36
+5772,Whitefield,Malleshwaram,12.97177,77.73823,13.01148,77.57076,24.3,Cloudy,High,Afternoon,Bike,27,0,115
+5773,Whitefield,Electronic City,12.97142,77.74316,12.83738,77.65054,23.4,Cloudy,Medium,Evening,Scooter,6,3,84
+5774,Electronic City,Indiranagar,12.86403,77.67899,12.9828,77.62428,18.8,Rainy,Low,Evening,Bike,8,6,77
+5775,Yelahanka,Yelahanka,13.09558,77.6071,13.11052,77.61145,2.2,Rainy,Medium,Evening,Car,28,3,51
+5776,Hebbal,HSR Layout,13.04051,77.59981,12.92097,77.65604,19.0,Clear,Low,Morning,Scooter,28,0,83
+5777,HSR Layout,Yelahanka,12.91632,77.61896,13.0903,77.59297,25.4,Stormy,Low,Night,Scooter,29,9,109
+5778,Yelahanka,HSR Layout,13.09755,77.58408,12.89996,77.64361,29.8,Cloudy,Medium,Afternoon,Scooter,28,7,122
+5779,Malleshwaram,Malleshwaram,12.98917,77.56659,13.00427,77.57621,2.6,Clear,High,Evening,Scooter,14,2,40
+5780,Malleshwaram,MG Road,13.01143,77.55752,12.96362,77.61125,10.2,Clear,Medium,Evening,Scooter,6,5,50
+5781,Hebbal,MG Road,13.03857,77.62107,13.00567,77.60346,5.4,Cloudy,High,Afternoon,Scooter,12,8,50
+5782,MG Road,Jayanagar,12.97581,77.60786,12.91574,77.59779,8.8,Cloudy,Medium,Morning,Bike,17,9,53
+5783,Malleshwaram,Hebbal,13.00338,77.5681,13.02667,77.59754,5.3,Clear,Low,Evening,Car,20,5,46
+5784,MG Road,Hebbal,12.97544,77.59345,13.04374,77.59283,9.9,Cloudy,Medium,Evening,Scooter,12,2,58
+5785,Indiranagar,Hebbal,12.96725,77.62812,13.03045,77.58917,10.7,Stormy,Low,Afternoon,Scooter,21,4,67
+5786,Yelahanka,Indiranagar,13.10376,77.58819,12.95076,77.65241,23.9,Stormy,Medium,Evening,Scooter,21,8,111
+5787,Koramangala,Yelahanka,12.91311,77.61688,13.0991,77.59137,27.1,Clear,Medium,Afternoon,Scooter,29,5,112
+5788,Hebbal,Whitefield,13.03501,77.59413,12.95817,77.73671,23.0,Clear,Medium,Morning,Car,28,9,102
+5789,MG Road,Jayanagar,12.95716,77.61129,12.91881,77.61586,5.6,Clear,High,Evening,Scooter,22,0,56
+5790,BTM Layout,Koramangala,12.91187,77.61293,12.91602,77.63993,3.9,Clear,Medium,Night,Car,12,4,35
+5791,Koramangala,Indiranagar,12.94327,77.6366,12.96759,77.64767,3.8,Clear,Low,Evening,Scooter,8,2,32
+5792,Yelahanka,Malleshwaram,13.09706,77.57987,13.00141,77.5646,14.0,Cloudy,High,Night,Scooter,8,3,65
+5793,BTM Layout,Marathahalli,12.9103,77.61261,12.95798,77.7004,14.2,Cloudy,Low,Night,Scooter,27,9,62
+5794,HSR Layout,Koramangala,12.9172,77.65026,12.92173,77.60803,6.0,Clear,Medium,Night,Car,28,5,54
+5795,Marathahalli,MG Road,12.9553,77.7166,12.96679,77.60725,15.5,Cloudy,Low,Afternoon,Bike,11,0,72
+5796,Indiranagar,MG Road,12.97292,77.63811,12.96514,77.6107,4.0,Cloudy,Medium,Morning,Scooter,24,8,40
+5797,BTM Layout,Hebbal,12.91129,77.61401,13.03705,77.59529,18.4,Stormy,High,Morning,Scooter,28,6,102
+5798,BTM Layout,HSR Layout,12.93414,77.60016,12.90938,77.65319,8.3,Foggy,Low,Afternoon,Scooter,14,8,44
+5799,MG Road,Yelahanka,12.98296,77.61188,13.08541,77.58788,15.2,Rainy,Medium,Afternoon,Bike,7,6,64
+5800,Hebbal,HSR Layout,13.04095,77.60177,12.9187,77.65017,18.9,Cloudy,Low,Evening,Scooter,26,6,84
+5801,Ambasamudram,Padathikkara,8.707894,77.427386,10.0068,76.3752,246,Cloudy,Medium,Morning,Bike,20,5,387
